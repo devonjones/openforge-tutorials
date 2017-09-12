@@ -5,19 +5,19 @@
 
 To create a basic set, you will want a selection that lets you build a few small rooms, or a larger, more complex room. To that end, we suggest you start off with the following:
 
-* 14 walls
-* 8 corners
+* 14 2x2 walls
+* 8 2x2 corners
 * 12 2x2 floors
 * 2 4x4 floors
-* 4 doors
-* 2 wide doors
-* 2 windows
+* 4 2x2 doors
+* 2 4x2 wide doors
+* 2 2x2 windows
 
 ### Cut-Stone
 
 * [Walls](https://www.thingiverse.com/thing:1419276)
 * [Corners](https://www.thingiverse.com/thing:1434550)
-* [Floors](https://www.thingiverse.com/thing:1422779) Contains both 2x2 & 4x4
+* [Floors](https://www.thingiverse.com/thing:1422779)
 * [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
 * [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
 
@@ -77,9 +77,8 @@ Windows and Doors don't make much sense at half-height.  If your goal is to crea
 
 ### Cut-Stone Half-Height
 
-* 2x2 Curved Half-Height - No known implementation
 * [2x2 Curved Square](https://www.thingiverse.com/thing:2314886) (Not our tiles, but they work)
-* 4x4 Curved Half-Height - No known implementation
+* 2x2, 2x4, 4x2, 4x4 Curved Half-Height - No known implementation
 
 If you are interested in the missing tiles happening, [Patrons](https://www.patreon.com/masterworktools) can [vote](http://openforge.masterwork-tools.com/) on new tiles.
 
@@ -103,11 +102,11 @@ We've been unable to find examples of curved walls in a Tudor style, so we've ne
 
 ## Options
 
-* 4 Arrow Slits
+* 4 2x2 Arrow Slits
 * 2 2x2 Grate
 * 1 2x4 Grate
 * 1 4x4 Grate
-* 1 Trap Door
-* 1 Corner Trap Door
+* 1 2x2 Trap Door
+* 1 2x2 Corner Trap Door
 * Mosaic Floors
 
