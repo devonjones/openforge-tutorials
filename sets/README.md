@@ -1,12 +1,4 @@
 # OpenForge Sets
-
-[Introduction](Introdution)
-[Basic Set][Basic Set]
-[Diagonal Set][Diagonal Set]
-[Curved Set][Curved Set]
-[Hallway Set][Hallway Set]
-[Options][Options]
-
 ## Introduction
 
 ## Basic Set
@@ -22,6 +14,7 @@ To create a basic set, you will want a selection that lets you build a few small
 * 2 windows
 
 ### Cut-Stone
+
 * [Walls](https://www.thingiverse.com/thing:1419276)
 * [Corners](https://www.thingiverse.com/thing:1434550)
 * [Floors](https://www.thingiverse.com/thing:1422779) Contains both 2x2 & 4x4
@@ -29,15 +22,20 @@ To create a basic set, you will want a selection that lets you build a few small
 * [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
 
 ### Tudor
-
 ### Rough Stone
-
 ### Ruined Stone
 
 ## Diagonal Set
 
 * 8 2x2 Diagonals (Diagonal floor)
 * 8 2x2 Diagonals (Square floor)
+
+### Cut-Stone
+* [Diagonal](https://www.thingiverse.com/thing:1450949)
+
+### Tudor
+### Rough Stone
+### Ruined Stone
 
 ## Curved Set
 
@@ -47,11 +45,25 @@ To create a basic set, you will want a selection that lets you build a few small
 * 2 2x4 Curved (Curved floor)
 * 2 4x2 Curved (Curved floor)
 
+### Cut-Stone
+
+* [Curved](https://www.thingiverse.com/thing:1456837)
+* [Curved Square Base](https://www.thingiverse.com/thing:1456863)
+
+### Tudor
+### Rough Stone
+### Ruined Stone
+
 ## Hallway Set
 
 * 16 A OpenLOCK Walls, sidelock + magnetic + OpenLOCK bases
 * 8 BA OpenLOCK Walls, sidelock + OpenLOCK Triplex bases
 * 16 L OpenLOCK Columns, sidelock
+
+### Cut-Stone
+### Tudor
+### Rough Stone
+### Ruined Stone
 
 ## Options
 
@@ -61,3 +73,7 @@ To create a basic set, you will want a selection that lets you build a few small
 * 1 4x4 Grate
 * Mosaic Floors
 
+### Cut-Stone
+### Tudor
+### Rough Stone
+### Ruined Stone
