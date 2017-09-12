@@ -1,6 +1,6 @@
 # OpenForge Sets
 
-[Introduction][Introdution]
+[Introduction](Introdution)
 [Basic Set][Basic Set]
 [Diagonal Set][Diagonal Set]
 [Curved Set][Curved Set]
