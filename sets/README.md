@@ -38,7 +38,44 @@ Windows and Doors don't make much sense at half-height.  If your goal is to crea
 * [Square Windows](https://www.thingiverse.com/thing:1659308)
 
 ### Rough Stone
+Rough stone is a varation of ruined stone, where the pieces are complete.  If you print rough stone, we suggest also printing the full range of ruined variations, as the two work really well together to make partially intact buildings or rooms.
+
+* [Walls](https://www.thingiverse.com/thing:2275577)
+  * Suggested Prints
+  * 14 of ruined_wall.wall.ckit.2x.full.stl
+  * If you want half-height, instead ruined_wall.wall.ckit.2x.half.stl
+  * 6 of the opposite (if you did 14 half-height, do 6 full or vice versa)
+  * 2 each of broken_stone_floor.wall.ckit.2x2.a - broken_stone_floor.wall.ckit.2x2.i
+* [Corners](https://www.thingiverse.com/thing:2328221)
+* [Floors](https://www.thingiverse.com/thing:2244962)
+  * Suggested prints
+  * 2x each of 2x2.a - 2x2.i (18 total, but gives a lot of variation)
+  * 2x of 4x4
+* [Wood Framed Doors]()
+* [Square Windows]()
+
 ### Ruined Stone
+Ruined stone is a varation of rough stone, where the pieces are not entirely complete.  If you print rough stone, we suggest also printing the full range of ruined variations, as the two work really well together to make partially intact buildings or rooms.
+
+* [Walls](https://www.thingiverse.com/thing:2275577)
+  * Suggested Prints
+  * 2 ruined_wall.wall.ckit.2x.full.stl
+  * 2 ruined_wall.wall.ckit.2x.full-half.stl
+  * 2 ruined_wall.wall.ckit.2x.full-low.stl
+  * 2 ruined_wall.wall.ckit.2x.half-full.stl
+  * 2 ruined_wall.wall.ckit.2x.half-low.stl
+  * 2 ruined_wall.wall.ckit.2x.low-full.stl
+  * 2 ruined_wall.wall.ckit.2x.low-half.stl
+  * 2 ruined_wall.wall.ckit.2x.low.stl
+  * 2 more of any of the above
+  * 2 each of broken_stone_floor.wall.ckit.2x2.a - broken_stone_floor.wall.ckit.2x2.i
+* [Corners](https://www.thingiverse.com/thing:2328221)
+* [Floors](https://www.thingiverse.com/thing:2244962)
+  * Suggested prints
+  * 2x each of 2x2.a - 2x2.i (18 total, but gives a lot of variation)
+  * 2x of 4x4
+* [Wood Framed Doors]()
+* [Square Windows]()
 
 ## Diagonal Set
 
