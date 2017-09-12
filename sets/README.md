@@ -14,12 +14,25 @@
 To create a basic set, you will want a selection that lets you build a few small rooms, or a larger, more complex room. To that end, we suggest you start off with the following:
 
 * 14 walls
-* 4 doors
-* 2 wide doors
-* 2 windows
 * 8 corners
 * 12 2x2 floors
 * 2 4x4 floors
+* 4 doors
+* 2 wide doors
+* 2 windows
+
+### Cut-Stone
+* [Walls](https://www.thingiverse.com/thing:1419276)
+* [Corners](https://www.thingiverse.com/thing:1434550)
+* [Floors](https://www.thingiverse.com/thing:1422779) Contains both 2x2 & 4x4
+* [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
+* [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
+
+### Tudor
+
+### Rough Stone
+
+### Ruined Stone
 
 ## Diagonal Set
 
