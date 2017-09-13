@@ -29,11 +29,19 @@ For flexibility, and to maximize the chances of producing usable parts we sugges
 * Walls
   * [Walls](https://www.thingiverse.com/thing:1419276) as one piece
   * [Wall Floors](https://www.thingiverse.com/thing:1640988) & [Wall Backs](https://www.thingiverse.com/thing:1641002) as a construction kit
+  * 14x cut_stone_floor.2x2.internal.ckit
+  * 14x cut_stone_wall.2x.internal.standard.ckit
 * Corners
   * [Corners](https://www.thingiverse.com/thing:1434550) as one piece
   * [Corner Floors](https://www.thingiverse.com/thing:1727359) & [Corner Backs](https://www.thingiverse.com/thing:1727402) as a constuction kit
 * [Floors](https://www.thingiverse.com/thing:1422779)
-* [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
+* Doors
+  * [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
+  * [Wall Floors](https://www.thingiverse.com/thing:1640988) & [Wall Backs](https://www.thingiverse.com/thing:1641002) as a construction kit.  Wall backs contains every variety of cut-stone backs for the construction kit.
+  * 4x (arched) cut_stone_door.2xW.internal.standard.ckit
+  * 4x (wood frame) cut_stone_door_square.stone_floor.2xW.internal.standard.ckit + door_lintel_1, 2 or 3
+  * 4x cut_stone_floor.2x2.internal.ckit
+  * 4x 2x2 square base in the connector style you prefer
 * [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
 
 ### Cut-Stone Half-Height
