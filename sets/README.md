@@ -15,8 +15,8 @@ To create a basic set, you will want a selection that lets you build a few small
 
 ### Cut-Stone
 
-* [Walls](https://www.thingiverse.com/thing:1419276)
-* [Corners](https://www.thingiverse.com/thing:1434550)
+* [Walls](https://www.thingiverse.com/thing:1419276), [Wall Floors](https://www.thingiverse.com/thing:1640988), [Wall Backs](https://www.thingiverse.com/thing:1641002)
+* [Corners](https://www.thingiverse.com/thing:1434550), [Corner Floors](https://www.thingiverse.com/thing:1727359), [Corner Backs](https://www.thingiverse.com/thing:1727402)
 * [Floors](https://www.thingiverse.com/thing:1422779)
 * [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
 * [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
@@ -121,7 +121,18 @@ Ruined stone is a varation of rough stone, where the pieces are not entirely com
 * [Diagonal Square Bases](https://www.thingiverse.com/thing:1669832)
 
 ### Rough Stone
+
+* [Diagonal](https://www.thingiverse.com/thing:2478671)
+  * Suggested prints
+  * 16x ruined_wall.diagonal.ckit.2x2.full
+  * 24x ruined_diagonal.floor.2x2 (square diagonal tiles use 2)
+
 ### Ruined Stone
+
+* [Diagonal](https://www.thingiverse.com/thing:2478671)
+  * Suggested prints
+  * 16x, 2 each of ruined_wall.diagonal.ckit.2x2.full-half, full-low, half-full, half, half-low, low-full, low-half, low
+  * 24x ruined_diagonal.floor.2x2  (square diagonal tiles use 2)
 
 ## Curved Set
 
