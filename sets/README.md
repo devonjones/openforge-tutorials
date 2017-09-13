@@ -5,6 +5,8 @@
 
 To create a basic set, you will want a selection that lets you build a few small rooms, or a larger, more complex room. To that end, we suggest you start off with the following:
 
+376 Magnets
+
 * 14 2x2 walls
 * 8 2x2 corners
 * 12 2x2 floors
@@ -14,6 +16,8 @@ To create a basic set, you will want a selection that lets you build a few small
 * 2 2x2 windows
 
 ### Cut-Stone
+
+376 Magnets
 
 * [Walls](https://www.thingiverse.com/thing:1419276), [Wall Floors](https://www.thingiverse.com/thing:1640988), [Wall Backs](https://www.thingiverse.com/thing:1641002)
 * [Corners](https://www.thingiverse.com/thing:1434550), [Corner Floors](https://www.thingiverse.com/thing:1727359), [Corner Backs](https://www.thingiverse.com/thing:1727402)
@@ -31,6 +35,8 @@ Windows and Doors don't make much sense at half-height.  If your goal is to crea
 
 ### Tudor
 
+376 Magnets
+
 * [Walls](https://www.thingiverse.com/thing:1598377), [Wall Variations Set 1](https://www.thingiverse.com/thing:1598386), [Wall Variations Set 2](https://www.thingiverse.com/thing:1618353), [Wall Construction Kit Parts](https://www.thingiverse.com/thing:1641003), [Wall Construction Kit Floors](https://www.thingiverse.com/thing:1640999)
 * [Corners](https://www.thingiverse.com/thing:1635716), [Corner Variations Set 1](https://www.thingiverse.com/thing:1635721) [Corner Construction Kit Parts](https://www.thingiverse.com/thing:1727412), [Corner Construction Kit Floors](https://www.thingiverse.com/thing:1727367)
 * [Floors](https://www.thingiverse.com/thing:1585586)
@@ -40,21 +46,19 @@ Windows and Doors don't make much sense at half-height.  If your goal is to crea
 ### Rough Stone
 Rough stone is a varation of ruined stone, where the pieces are complete.  If you print rough stone, we suggest also printing the full range of ruined variations, as the two work really well together to make partially intact buildings or rooms.
 
+400 Magnets
+
 * [Walls](https://www.thingiverse.com/thing:2275577)
-  * Suggested Prints
   * 14 of ruined_wall.wall.ckit.2x.full.stl
   * If you want half-height, instead ruined_wall.wall.ckit.2x.half.stl
   * 2 each of broken_stone_floor.wall.ckit.2x2.a - broken_stone_floor.wall.ckit.2x2.i
 * [Corners](https://www.thingiverse.com/thing:2328221)
-  * Suggested Prints
   * 8	ruined_wall.corner.ckit.2x.full.stl or 8 of ruined_wall.corner.ckit.2x.half.stl if you want half height
   * 8 of broken_stone_floor.corner.ckit.2x2.a - broken_stone_floor.corner.ckit.2x2.i
 * [Floors](https://www.thingiverse.com/thing:2244962)
-  * Suggested prints
   * 2x each of 2x2.a - 2x2.i (18 total, but gives a lot of variation)
   * 2x of 4x4
 * [Wood Framed Doors](https://www.thingiverse.com/thing:2423018)
-  * Suggested prints
   * 4x of ruined_door_square.ckit.2x.full-full
   * 4x of ruined_floor.door.ckit.2x2.stl
   * 4x of door_lintel_1, 2 or 3
@@ -64,42 +68,47 @@ Rough stone is a varation of ruined stone, where the pieces are complete.  If yo
   * 2x of door_lintel_1.double, 2 or 3
   * 4x of tudor_square_door_double
 * [Square Windows](https://www.thingiverse.com/thing:2503963)
-  * Suggested prints
   * 2x ruined_wall.window.ckit.2x.full
   * Use 2 of the floors printed for the walls that were left over
 
 ### Ruined Stone
 Ruined stone is a varation of rough stone, where the pieces are not entirely complete.  If you print rough stone, we suggest also printing the full range of ruined variations, as the two work really well together to make partially intact buildings or rooms.
 
+532 Magnets
+
 * [Walls](https://www.thingiverse.com/thing:2275577)
-  * Suggested Prints
-  * 2x ruined_wall.wall.ckit.2x.full.stl
   * 2x ruined_wall.wall.ckit.2x.full-half.stl
   * 2x ruined_wall.wall.ckit.2x.full-low.stl
   * 2x ruined_wall.wall.ckit.2x.half-full.stl
+  * 2x ruined_wall.wall.ckit.2x.half.stl
   * 2x ruined_wall.wall.ckit.2x.half-low.stl
   * 2x ruined_wall.wall.ckit.2x.low-full.stl
   * 2x ruined_wall.wall.ckit.2x.low-half.stl
   * 2x ruined_wall.wall.ckit.2x.low.stl
   * 2x each of broken_stone_floor.wall.ckit.2x2.a - broken_stone_floor.wall.ckit.2x2.i
 * [Corners](https://www.thingiverse.com/thing:2328221)
-  * Suggested Prints
   * There are 27 variations of corner height, pick 8 that are uneven
   * 8 of broken_stone_floor.corner.ckit.2x2.a - broken_stone_floor.corner.ckit.2x2.i
 * [Floors](https://www.thingiverse.com/thing:2244962)
-  * Suggested prints
   * 2x each of 2x2.a - 2x2.i (18 total, but gives a lot of variation)
   * 2x of 4x4
 * [Wood Framed Doors](https://www.thingiverse.com/thing:2423018)
-  * Suggested prints
   * 4x of ruined_door_square.ckit.2x.full-half, full-low, half-full, half-half, half-low, low-full, low-half, low-low
   * 4x of ruined_floor.door.ckit.2x2.stl
   * 2x of ruined_door_square.ckit.4x.full-half, full-low, half-full, half-half, half-low, low-full, low-half, low-low
   * 2x of ruined_floor.door.ckit.4x2.stl
 * [Square Windows](https://www.thingiverse.com/thing:2503963)
-  * Suggested prints
   * Any 2 of ruined_wall.window.ckit.2x.full-half, half and half-full
   * Use 2 of the floors printed for the walls that were left over
+* [Shattered Floors](https://www.thingiverse.com/thing:2374136)
+  * 2x shattered_stone_floor.2x2.side.a 6
+  *	2x shattered_stone_floor.2x2.side.a.mirrored 6
+	 * 2x shattered_stone_floor.2x2.side.b 6
+	 * 2x shattered_stone_floor.2x2.side.b.mirrored  6
+	 * 2x shattered_stone_floor.2x2.corner.convex 4
+	 * 2x shattered_stone_floor.2x2.corner.convex.mirrored 4
+	 * 2x shattered_stone_floor.2x2.corner.concave 6
+	 * 2x shattered_stone_floor.2x2.corner.concave.mirrored 6
 
 ## Diagonal Set
 
