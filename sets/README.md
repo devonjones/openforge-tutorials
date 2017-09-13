@@ -10,7 +10,7 @@ All of our set suggestions below are based on the preference for Magnets + OpenL
 
 To create a basic set, you will want a selection that lets you build a few small rooms, or a larger, more complex room. To that end, we suggest you start off with the following:
 
-376 Magnets
+Requires 1-2 1 kg rolls of filament and 376 Magnets.  You will also need some cyanoacrylate glue (superglue).
 
 * 14 2x2 walls
 * 8 2x2 corners
@@ -20,12 +20,18 @@ To create a basic set, you will want a selection that lets you build a few small
 * 2 4x2 wide doors
 * 2 2x2 windows
 
+For flexibility, and to maximize the chances of producing usable parts we suggest using construction kit versions of tiles wherever possible.
+
 ### Cut-Stone
 
 376 Magnets
 
-* [Walls](https://www.thingiverse.com/thing:1419276), [Wall Floors](https://www.thingiverse.com/thing:1640988), [Wall Backs](https://www.thingiverse.com/thing:1641002)
-* [Corners](https://www.thingiverse.com/thing:1434550), [Corner Floors](https://www.thingiverse.com/thing:1727359), [Corner Backs](https://www.thingiverse.com/thing:1727402)
+* Walls
+  * [Walls](https://www.thingiverse.com/thing:1419276) as one piece
+  * [Wall Floors](https://www.thingiverse.com/thing:1640988) & [Wall Backs](https://www.thingiverse.com/thing:1641002) as a construction kit
+* Corners
+  * [Corners](https://www.thingiverse.com/thing:1434550) as one piece
+  * [Corner Floors](https://www.thingiverse.com/thing:1727359) & [Corner Backs](https://www.thingiverse.com/thing:1727402) as a constuction kit
 * [Floors](https://www.thingiverse.com/thing:1422779)
 * [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
 * [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
@@ -106,14 +112,14 @@ Ruined stone is a varation of rough stone, where the pieces are not entirely com
   * Any 2 of ruined_wall.window.ckit.2x.full-half, half and half-full
   * Use 2 of the floors printed for the walls that were left over
 * [Shattered Floors](https://www.thingiverse.com/thing:2374136)
-  * 2x shattered_stone_floor.2x2.side.a 6
-  *	2x shattered_stone_floor.2x2.side.a.mirrored 6
-	 * 2x shattered_stone_floor.2x2.side.b 6
-	 * 2x shattered_stone_floor.2x2.side.b.mirrored  6
-	 * 2x shattered_stone_floor.2x2.corner.convex 4
-	 * 2x shattered_stone_floor.2x2.corner.convex.mirrored 4
-	 * 2x shattered_stone_floor.2x2.corner.concave 6
-	 * 2x shattered_stone_floor.2x2.corner.concave.mirrored 6
+  * 2x shattered_stone_floor.2x2.side.a 
+  * 2x shattered_stone_floor.2x2.side.a.mirrored
+  * 2x shattered_stone_floor.2x2.side.b
+  * 2x shattered_stone_floor.2x2.side.b.mirrored
+  * 2x shattered_stone_floor.2x2.corner.convex
+  * 2x shattered_stone_floor.2x2.corner.convex.mirrored
+  * 2x shattered_stone_floor.2x2.corner.concave
+  * 2x shattered_stone_floor.2x2.corner.concave.mirrored
 
 ## Other Sets
 
