@@ -23,6 +23,34 @@ If you are interested in the missing tiles happening, [Patrons](https://www.patr
 We've been unable to find examples of curved walls in a Tudor style, so we've never implemented sets for this. If you are interested in these happening, [Patrons](https://www.patreon.com/masterworktools) can [vote](http://openforge.masterwork-tools.com/) on new tiles.
 
 ## Rough Stone
+
+Rough stone is a varation of ruined stone, where the pieces are complete.  If you print rough stone, we suggest also printing the full range of ruined variations, as the two work really well together to make partially intact buildings or rooms.
+
+* [Curved](https://www.thingiverse.com/thing:2437047)
+  * 16x ruined_curved_wall.2x2.full
+  * 16x variety of broken_stone_floor.curved.ckit.2x2.a - i
+  * 8x of backside 2x2 curved flooring (need to create)
+  * 8x 2x2 curved base in the connector style you prefer
+  * 8x 2x2 square base in the connector style you prefer
+  * 4x ruined_curved_wall.4x4.full
+  * 4x broken_stone_floor.curved.ckit.4x4
+  * 4x 4x4 curved base in the connector style you prefer
+  * 2x ruined_curved_wall.2x4.full
+  * 2x broken_stone_floor.curved.ckit.2x4
+  * 2x 2x4 curved base in the connector style you prefer
+  * 2x ruined_curved_wall.4x2.full
+  * 2x broken_stone_floor.curved.ckit.4x2
+  * 2x 4x1 curved base in the connector style you prefer
+
 ## Ruined Stone
 
+Ruined stone is a varation of rough stone, where the walls are broken.  If you print rough stone, we suggest also printing the full range of ruined variations, as the two work really well together to make partially intact buildings or rooms.
+
+* [Curved](https://www.thingiverse.com/thing:2437047)
+  * 2x each of (16 total) ruined_curved_wall.2x2.full-half, full-low, half-full, half, half-low, low-full, low-half, low
+  * 16x variety of broken_stone_floor.curved.ckit.2x2.a - i
+  * 8x of backside 2x2 curved flooring (need to create)
+  * 8x 2x2 curved base in the connector style you prefer
+  * 8x 2x2 square base in the connector style you prefer
+  
 [Up](README.md)
