@@ -71,6 +71,7 @@ Printing isn't always clean.  In many cases, magnet holes will end up with strin
 * [Basic Set](basic.md) <- Start here
 * [Diagonal Set](diagonal.md)
 * [Curved Set](curved.md)
+<!--
 * [Hallway Set](hallway.md)
 * [Options](options.md)
-
+-->
