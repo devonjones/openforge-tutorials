@@ -31,4 +31,14 @@
   * 16x, 2 each of ruined_wall.diagonal.ckit.2x2.full-half, full-low, half-full, half, half-low, low-full, low-half, low
   * 24x ruined_diagonal.floor.2x2  (square diagonal tiles use 2)
 
-[Up](README.md)
+# Navigation
+
+[Instructions](README.md)
+
+* [Basic Set](basic.md) <- Start here
+* [Diagonal Set](diagonal.md)
+* [Curved Set](curved.md)
+<!--
+* [Hallway Set](hallway.md)
+* [Options](options.md)
+-->

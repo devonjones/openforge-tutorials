@@ -53,4 +53,14 @@ Ruined stone is a varation of rough stone, where the walls are broken.  If you p
   * 8x 2x2 curved base in the connector style you prefer
   * 8x 2x2 square base in the connector style you prefer
   
-[Up](README.md)
+# Navigation
+
+[Instructions](README.md)
+
+* [Basic Set](basic.md) <- Start here
+* [Diagonal Set](diagonal.md)
+* [Curved Set](curved.md)
+<!--
+* [Hallway Set](hallway.md)
+* [Options](options.md)
+-->
