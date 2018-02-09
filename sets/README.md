@@ -17,9 +17,9 @@ I use [Krylon Fusion](http://www.krylon.com/products/camouflage-paint-made-with-
 If you can't find the krylon fusion paints, before I used it, I was reasonably happy with [Rustoleum Painter's Touch](http://amzn.to/2shNsvn) Flat Black, which you can get at places like Lowes or Home Depot. (Despite what amazon says, it's about $4 a can)
 
 #### Glue
-For superglue, I have two different recommendations.  [Loktite Ultragel Control](https://www.amazon.com/Loctite-Ultra-Control-4-Gram-1363589/dp/B003Y49R7G/ref=sr_1_1?s=industrial&ie=UTF8&qid=1505841780&sr=1-1&keywords=loctite) is super easy to use, but a bit pricy.  Also you end up needing to use pliars to crank the top as the glue gets used up to actually use all that you are sold.  I love this stuff when I need more control for like tight spots and such.
+For superglue, I have two different recommendations.  [Loktite Ultragel Control](http://amzn.to/2H42DvE) is super easy to use, but a bit pricy.  Also you end up needing to use pliars to crank the top as the glue gets used up to actually use all that you are sold.  I love this stuff when I need more control for like tight spots and such.
 
-Price wise, [Gorilla Super Glue Gel](https://www.amazon.com/Gorilla-Super-Glue-Gel-15/dp/B00CJ5EO2E/ref=pd_sim_60_1?_encoding=UTF8&psc=1&refRID=Q3JRJK77Z1M55J3RCK12) is much cheaper per ounce, and I use it for the bulk of my gluing these days.  ($4.84 for 15 grams vs $3.89 for 4 grams)
+Price wise, [Gorilla Super Glue Gel](http://amzn.to/2H58rEX) is much cheaper per ounce, and I use it for the bulk of my gluing these days.  ($4.84 for 15 grams vs $3.89 for 4 grams)
 
 #### Magnets
 There are two types of magnets regularly used in OpenForge.  5mm spherical magnets, and 3/16" dia. x 1/16" thick cylinders.
