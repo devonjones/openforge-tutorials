@@ -24,7 +24,7 @@ Price wise, [Gorilla Super Glue Gel](https://www.amazon.com/Gorilla-Super-Glue-G
 #### Magnets
 There are two types of magnets regularly used in OpenForge.  5mm spherical magnets, and 3/16" dia. x 1/16" thick cylinders.
 
-I get the 3/16" dia. x 1/16" thick magnets from [K&J](https://www.kjmagnetics.com/proddetail.asp?prod=D31) and my spheres from [Dealxtreme](http://www.dx.com/p/5mm-neodymium-magnet-cube-diy-puzzle-set-black-216-pcs-170237#.WcFZSNOGN24).  With Dealxtreme, the shipping time is long, and which color of magnet is cheapest changes a lot, so keep an eye on the site, and order early before you run out.
+I get the 3/16" dia. x 1/16" thick magnets from [K&J](https://www.kjmagnetics.com/proddetail.asp?prod=D31) and my spheres from [Dealxtreme](http://www.dx.com/p/5mm-neodymium-magnet-cube-diy-puzzle-set-black-216-pcs-170237#.WcFZSNOGN24).  With Dealxtreme, the shipping time is long, and which color of magnet is cheapest changes a lot, so keep an eye on the site, and order early before you run out.  The vast majority of the magnets used are the 5mm spheres.  If a set uses the cylinders, I'll call that out specifically.  Otherwise, assume that anything using magnets uses the spheres.
 
 #### Paint
 For the most part, I use [Americana Craft Paint](https://decoart.com/americana/) for my terrain.  Here's their [color chart](file:///Users/devonjones/Downloads/Americana_Acrylics_Color_Chart.pdf).  There isn't anything super special about my choice here, you can find usable paints with any of the craft lines.  Use the color chart I linked to look at other paint lines to get paints that are close.
