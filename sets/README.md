@@ -27,14 +27,15 @@ There are two types of magnets regularly used in OpenForge.  5mm spherical magne
 I get the 3/16" dia. x 1/16" thick magnets from [K&J](https://www.kjmagnetics.com/proddetail.asp?prod=D31) and my spheres from [Dealxtreme](http://www.dx.com/p/5mm-neodymium-magnet-cube-diy-puzzle-set-black-216-pcs-170237#.WcFZSNOGN24).  With Dealxtreme, the shipping time is long, and which color of magnet is cheapest changes a lot, so keep an eye on the site, and order early before you run out.  The vast majority of the magnets used are the 5mm spheres.  If a set uses the cylinders, I'll call that out specifically.  Otherwise, assume that anything using magnets uses the spheres.
 
 #### Paint
-For the most part, I use [Americana Craft Paint](https://decoart.com/americana/) for my terrain.  Here's their [color chart](file:///Users/devonjones/Downloads/Americana_Acrylics_Color_Chart.pdf).  There isn't anything super special about my choice here, you can find usable paints with any of the craft lines.  Use the color chart I linked to look at other paint lines to get paints that are close.
+For the most part, I use [Americana Craft Paint](https://decoart.com/americana/) for my terrain.  Here's their [color chart](file:///Users/devonjones/Downloads/Americana_Acrylics_Color_Chart.pdf).  There isn't anything super special about my choice here, you can find usable paints with any of the craft lines.  Use the color chart I linked to look at other paint lines to get paints that are close.  You should not pay more then $2 per paint for these (The prices sometimes change on these links).
 
-* Black, White
-* Zinc, Neutral Grey and Slate Grey for stone.
-* Raw Umber, Raw Sienna and Honey Brown for wood.
+* [Black](http://amzn.to/2CahP6G) (worth getting in [large](http://amzn.to/2H2cTnW)), [White](http://amzn.to/2BkihlP)
+* [Zinc](http://amzn.to/2BmC6t2), [Neutral Grey](http://amzn.to/2Eed16e) and [Slate Grey](http://amzn.to/2C89rVe) for stone.
+* [Raw Umber](http://amzn.to/2EvH1JW), [Raw Sienna](http://amzn.to/2EfKJIz) and [Honey Brown](http://amzn.to/2BmMi4O) for wood.
 * [Hauser Light Green](http://amzn.to/2C8XNJE), [Hauser Medium Green](http://amzn.to/2Es3lEv) and [Hauser Dark Green](http://amzn.to/2BOxpJA) for moss/lichen.
-* Ultrablue Deep, True Blue and Ocean Blue for water.
-* [Gloss varnish](https://decoart.com/Merchant2/merchant.mvc?Session_ID=dadec942654c465e76e6b93b851bce6a&Screen=PROD&Store_Code=D&Product_Code=DS128-9&Category_Code=PREP) for things like water, metal, etc.
+* [Ultra Blue Deep](http://amzn.to/2Es6PXz), [True Blue](http://amzn.to/2ERKcJE) and [Ocean Blue](http://amzn.to/2C8SNEW) for water.
+* [Gloss varnish](http://amzn.to/2Ew6nHu) for things like water, metal, etc.
+* [Matte varnish](http://amzn.to/2BjbusS) for everything else
 * Various metallics from a variety of craft paint lines for metals.
 
 #### Water
