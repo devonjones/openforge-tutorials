@@ -57,9 +57,11 @@ Ruined stone is a varation of rough stone, where the walls are broken.  If you p
 
 [Instructions](README.md)
 
+* [Ultra Basic Set](ultra_basic.md)
 * [Basic Set](basic.md) <- Start here
 * [Diagonal Set](diagonal.md)
 * [Curved Set](curved.md)
+* [OpenLOCK Set](openlock.md)
 <!--
 * [Hallway Set](hallway.md)
 * [Options](options.md)
