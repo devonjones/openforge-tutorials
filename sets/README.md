@@ -52,10 +52,10 @@ You'll want an xacto knife.  I prefer one with [rubber sides](http://amzn.to/2ES
 #### Pin Vice
 I use the pin vice all the time.  Basically it's a mini drill that you turn with your hands that has very tiny bits.  For anything that I print that uses filament as a joint or a rivet, having a drill that's a little larger then a 1.75mm piece of filament is super useful, but I find a ton of other uses for it in both 3d printing, and for miniatures.  This isn't critical equipment, but it's really pretty useful to have.
 
-Here's a [reasonably cheap one](https://www.amazon.com/Smart-Fun-Precision-Model-Rotary/dp/B01DBN8PLI/ref=sr_1_1?ie=UTF8&qid=1505841385&sr=8-1&keywords=pin+vise) and one that has a [ton of bits](https://www.amazon.com/CML-Supply-Micro-Drill-Chuck/dp/B001RJE3X8/ref=sr_1_6?ie=UTF8&qid=1505841385&sr=8-6&keywords=pin+vise).  A variety of bits is really worth it.  In fact, I really did actually order the second one from amazon while writing this.  Seriously.
+Here's a [reasonably cheap one](http://amzn.to/2BjyIPu) and one that has a [ton of bits](http://amzn.to/2BklUbt).  A variety of bits is really worth it.  In fact, I really did actually order the second one from amazon while writing this.  Seriously.
 
 #### Flush Cutters
-Here's a cheap set from [amazon](https://www.amazon.com/Xuron-410-Micro-Shear-Flush-Cutter/dp/B000IBOOWQ).  Cheap snips generally are softer, so their blade is more easily destroyed.  So long as you **only** use this on plastic, you can go as cheap as you want.
+Here's a cheap set from [amazon](http://amzn.to/2BkOkCf).  Cheap snips generally are softer, so their blade is more easily destroyed.  So long as you **only** use this on plastic, you can go as cheap as you want.
 
 #### Lighter
 I use a standard bic lighter.  Best way to get rid of stringing if you have any.  Also super useful for making rivets out of filament.
