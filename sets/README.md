@@ -12,7 +12,7 @@ All of our set suggestions below are based on the preference for Magnets + OpenL
 I use and am super happy with [Foxsmart Natural PLA](http://thefoxsmart.com/shop/pla-filament-2/).  Their filament has good quality control, and it's *cheap* at $16/roll and flat rate shipping of (IIRC) $5 regardless of order size.  I generally use clear, because I find it easier to tell if I got good coverage with my primer, because I can hold it up to a light and see if there are gaps in the coverage.  Black and White both also work, though with black, you will need to be careful that your primer fully coverd it, because the filament is glossy.  Turns out, glossy shadows don't look good.
 
 #### Primer
-I use [Krylon Fusion](http://www.krylon.com/products/camouflage-paint-made-with-fusion-for-plastic-technology/) Black Camo paint.  This stuff is amazing, SUPER flat, goes on in thin, even coats.  Hell, I use it to prime my miniatures these days.  I find it at my local Ace Hardware for about $5 a can.  Tabletop Minions has a [video](https://www.youtube.com/watch?v=O5Re9jTuWPk) covering all the reasons I love this paint.
+I use [Krylon Fusion](http://amzn.to/2BQGykD) Black Camo paint.  This stuff is amazing, SUPER flat, goes on in thin, even coats.  Hell, I use it to prime my miniatures these days.  I find it at my local Ace Hardware for about $5 a can.  Tabletop Minions has a [video](https://www.youtube.com/watch?v=O5Re9jTuWPk) covering all the reasons I love this paint.
 
 If you can't find the krylon fusion paints, before I used it, I was reasonably happy with [Rustoleum Painter's Touch](http://amzn.to/2shNsvn) Flat Black, which you can get at places like Lowes or Home Depot. (Despite what amazon says, it's about $4 a can)
 
