@@ -67,7 +67,7 @@ I use a standard bic lighter.  Best way to get rid of stringing if you have any.
 Because I'm making a ton of tiles, I built a simple spray paint booth.  What I did was go get some flat cardboard (from say an amazon box), and a plastic crate (like [this one](https://www.lowes.com/pd/Style-Selections-Bella-30-Gallon-Clear-Tote-with-Standard-Snap-Lid/50149128)).  Get rid of the lid, add the cardboard on the bottom, and bam, instant spray booth.
 
 #### Drill Press
-Printing isn't always clean.  In many cases, magnet holes will end up with stringing, gunk or other bits of plastic in them.  I use a benchtop drill press with a 15/64" or 6mm drill bit.  This is not strictly necessary, it's totally aa nice to have.  You don't need anything nice, you can just the cheap-o model from [Harbor Freight](https://www.harborfreight.com/8-in-5-speed-bench-drill-press-60238.html) or [Amazon](http://amzn.to/2EuS5ad).  I find a ton of use for my drill press, unrelated to OpenForge.  If you have the space, I recommend one.  If not, you can still do this with any drill, it's just easier with a drill press.
+Printing isn't always clean.  In many cases, magnet holes will end up with stringing, gunk or other bits of plastic in them.  I use a benchtop drill press with a 15/64" or 6mm drill bit.  This is not strictly necessary, it's totally nice to have.  You don't need anything nice, you can just the cheap-o model from [Harbor Freight](https://www.harborfreight.com/8-in-5-speed-bench-drill-press-60238.html) or [Amazon](http://amzn.to/2EuS5ad).  I find a ton of use for my drill press, unrelated to OpenForge.  If you have the space, I recommend one.  If not, you can still do this with any drill, it's just easier with a drill press.
 
 ## Sets
 
