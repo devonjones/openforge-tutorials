@@ -15,7 +15,6 @@ For flexibility, and to maximize the chances of producing usable parts we sugges
 
 ## Cut-Stone
 
-* Walls
 * [Floors](https://www.thingiverse.com/thing:1422779)
 * Doors
   * [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
@@ -25,6 +24,17 @@ For flexibility, and to maximize the chances of producing usable parts we sugges
   * cut_stone_floor.2x2.internal.ckit
   * 2x2 square base in the connector style you prefer
 * [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
+
+## Dungeon Stone
+
+* [Floors](https://www.thingiverse.com/thing:2740273)
+  * [Bases](https://www.thingiverse.com/thing:2740279)
+
+We have not yet published OpenForge 2.0 versions of doors and windows, but OpenForge 1.0 versions are available
+
+* [Doors](https://www.thingiverse.com/thing:594735) Does not have a wide door option
+* [Arrow Slits](https://www.thingiverse.com/thing:563090)
+* [Window](https://www.thingiverse.com/thing:1407240) (Not my design, and only comes in 1x1)
 
 ## Tudor
 
