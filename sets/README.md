@@ -38,7 +38,7 @@ For the most part, I use [Americana Craft Paint](https://decoart.com/americana/)
 * Various metallics from a variety of craft paint lines for metals.
 
 #### Water
-When I want to do water in something like a fountain, I use Woodland Scenics [Water Effects](https://www.amazon.com/Woodland-Scenics-C1212-Water-Effects/dp/B000B6OSWE).
+When I want to do water in something like a fountain, I use Woodland Scenics [Water Effects](http://amzn.to/2ERGfor).
 
 ### Tools
 #### 3d Printer (of course)
