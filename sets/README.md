@@ -32,7 +32,7 @@ For the most part, I use [Americana Craft Paint](https://decoart.com/americana/)
 * Black, White
 * Zinc, Neutral Grey and Slate Grey for stone.
 * Raw Umber, Raw Sienna and Honey Brown for wood.
-* Hauser Light Green, Hauser Medium Green and Hauser Dark Green for moss/lichen.
+* [Hauser Light Green](http://amzn.to/2C8XNJE), [Hauser Medium Green](http://amzn.to/2Es3lEv) and [Hauser Dark Green](http://amzn.to/2BOxpJA) for moss/lichen.
 * Ultrablue Deep, True Blue and Ocean Blue for water.
 * [Gloss varnish](https://decoart.com/Merchant2/merchant.mvc?Session_ID=dadec942654c465e76e6b93b851bce6a&Screen=PROD&Store_Code=D&Product_Code=DS128-9&Category_Code=PREP) for things like water, metal, etc.
 * Various metallics from a variety of craft paint lines for metals.
