@@ -14,7 +14,7 @@ I use and am super happy with [Foxsmart Natural PLA](http://thefoxsmart.com/shop
 #### Primer
 I use [Krylon Fusion](http://www.krylon.com/products/camouflage-paint-made-with-fusion-for-plastic-technology/) Black Camo paint.  This stuff is amazing, SUPER flat, goes on in thin, even coats.  Hell, I use it to prime my miniatures these days.  I find it at my local Ace Hardware for about $5 a can.  Tabletop Minions has a [video](https://www.youtube.com/watch?v=O5Re9jTuWPk) covering all the reasons I love this paint.
 
-If you can't find the krylon fusion paints, before I used it, I was reasonably happy with [Rustoleum Painter's Touch](https://www.amazon.com/gp/product/B002BWOS94/ref=s9_dcacsd_dcoop_bw_c_x_3_w) Flat Black, which you can get at places like Lowes or Home Depot. (Despite what amazon says, it's about $4 a can)
+If you can't find the krylon fusion paints, before I used it, I was reasonably happy with [Rustoleum Painter's Touch](http://amzn.to/2shNsvn) Flat Black, which you can get at places like Lowes or Home Depot. (Despite what amazon says, it's about $4 a can)
 
 #### Glue
 For superglue, I have two different recommendations.  [Loktite Ultragel Control](https://www.amazon.com/Loctite-Ultra-Control-4-Gram-1363589/dp/B003Y49R7G/ref=sr_1_1?s=industrial&ie=UTF8&qid=1505841780&sr=1-1&keywords=loctite) is super easy to use, but a bit pricy.  Also you end up needing to use pliars to crank the top as the glue gets used up to actually use all that you are sold.  I love this stuff when I need more control for like tight spots and such.
