@@ -6,6 +6,8 @@ There is no need to stick to OpenForge for all your tiles.  The bases we produce
 
 All of our set suggestions below are based on the preference for Magnets + OpenLOCK.  You can always swap in what base you prefer. Some people prefer to use our plain bases that have no texture on them so that all the tiles line up perfectly.  Some people prefer the bases to carry the texture of the tile all the way through.  The bases have a broad variety including magnet, openlock, magnetic + openlock, openlock triplex, plain, and any other base you want to imagine.
 
+Disclosure: I am using Amazon affiliate links here, but I won't link to anything I don't use, and I won't link to a product in Amazon that is inferior to one I know of elsewhere. 
+
 ## Materials and Tools
 ### Materials
 #### Filament
@@ -65,7 +67,7 @@ I use a standard bic lighter.  Best way to get rid of stringing if you have any.
 Because I'm making a ton of tiles, I built a simple spray paint booth.  What I did was go get some flat cardboard (from say an amazon box), and a plastic crate (like [this one](https://www.lowes.com/pd/Style-Selections-Bella-30-Gallon-Clear-Tote-with-Standard-Snap-Lid/50149128)).  Get rid of the lid, add the cardboard on the bottom, and bam, instant spray booth.
 
 #### Drill Press
-Printing isn't always clean.  In many cases, magnet holes will end up with stringing, gunk or other bits of plastic in them.  I use a benchtop drill press with a 15/64" or 6mm drill bit.  This is not strictly necessary, it's totally aa nice to have.  You don't need anything nice, you can just the cheap-o model from [Harbor Freight](https://www.harborfreight.com/8-in-5-speed-bench-drill-press-60238.html).  I find a ton of use for my drill press, unrelated to OpenForge.  If you have the space, I recommend one.  If not, you can still do this with any drill, it's just easier with a drill press.
+Printing isn't always clean.  In many cases, magnet holes will end up with stringing, gunk or other bits of plastic in them.  I use a benchtop drill press with a 15/64" or 6mm drill bit.  This is not strictly necessary, it's totally aa nice to have.  You don't need anything nice, you can just the cheap-o model from [Harbor Freight](https://www.harborfreight.com/8-in-5-speed-bench-drill-press-60238.html) or [Amazon](http://amzn.to/2EuS5ad).  I find a ton of use for my drill press, unrelated to OpenForge.  If you have the space, I recommend one.  If not, you can still do this with any drill, it's just easier with a drill press.
 
 ## Sets
 
