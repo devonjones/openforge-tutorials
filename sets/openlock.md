@@ -2,10 +2,11 @@
 
 To create a basic OpenLOCK set, you will want a selection that lets you build a few small rooms, or a larger, more complex room. To that end, we suggest you start off with the following:
 
-Requires 1-2 1 kg rolls of filament.  If you want to make the tiles magnetic, it will also reqire 364 Magnets and some cyanoacrylate glue (superglue).
+Requires 1-2 1 kg rolls of filament.  If you want to make the tiles magnetic, it will also reqire 360 Magnets and some cyanoacrylate glue (superglue).
 
-* 20 E floors (2x2)
+* 16 E floors (2x2)
 * 8 F floors (2x2, curved)
+* 2 R floors (2x4)
 * 4 U floors (4x4)
 * 20 A walls
 * 4 BA walls <- Strongly suggest you do this one in triplex even if doing magnetic for everything else
