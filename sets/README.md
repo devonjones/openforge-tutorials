@@ -1,4 +1,6 @@
 # OpenForge Sets
+[Up](../README.md)
+
 ## Introduction
 I think in general it's a good idea to have one set that you have a ton of tiles for, with lots of flexibility, and then a bunch of smaller sets where you can build a few rooms with some differing flair. It seems counterintuitive, but cut-stone is designed to actually be a little boring, which makes it a perfect set for the large set. It's easy to add flair to the dungeon with a few interesting tiles, or scatter terrain, but your basic set will serve you better if it is more of a plain pallet you can use to build a bunch of different things. The more distinctive it is, the harder it is to use for different game situations.  Once you have selected the base set you intend to use, then you can extend it with various tiles, and other, smaller sets to add visual interest, or to make particular areas of your map vary for game reasons.
 
@@ -73,14 +75,4 @@ Because I'm making a ton of tiles, I built a simple spray paint booth.  What I d
 #### Drill Press
 Printing isn't always clean.  In many cases, magnet holes will end up with stringing, gunk or other bits of plastic in them.  I use a benchtop drill press with a 15/64" or 6mm drill bit.  This is not strictly necessary, it's totally nice to have.  You don't need anything nice, you can just the cheap-o model from [Harbor Freight](https://www.harborfreight.com/8-in-5-speed-bench-drill-press-60238.html) or [Amazon](http://amzn.to/2EuS5ad).  I find a ton of use for my drill press, unrelated to OpenForge.  If you have the space, I recommend one.  If not, you can still do this with any drill, it's just easier with a drill press.
 
-## Sets
-
-* [Ultra Basic Set](ultra_basic.md)
-* [Basic Set](basic.md) <- Start here
-* [Diagonal Set](diagonal.md)
-* [Curved Set](curved.md)
-* [OpenLOCK Set](openlock.md)
-<!--
-* [Hallway Set](hallway.md)
-* [Options](options.md)
--->
+[Up](../README.md)
