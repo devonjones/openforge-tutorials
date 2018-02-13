@@ -17,7 +17,7 @@ Sadly, my first pictures are lost, so here's the summary:
 ![Sponge Dark Grey](2018-01-30_22.45.07.jpg)
 * Sponge on the dark grey heavily.
 
-![Sponge Dark Brown](2019-01-30_23.11.28.jpg)
+![Sponge Dark Brown](2018-01-30_23.11.28.jpg)
 * Do a lighter sponge on of the dark brown
 
 ![Sponge Light Brown](2018-01-30_23.26.45.jpg)
