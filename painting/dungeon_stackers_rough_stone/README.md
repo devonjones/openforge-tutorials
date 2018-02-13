@@ -1,4 +1,4 @@
-#Painting the dungeon stackers
+# Painting the dungeon stackers
 
 You need the following:
 
@@ -15,7 +15,7 @@ Sadly, my first pictures are lost, so here's the summary:
 * Prime them with black spray primer (I use Krylon Flat Black Camo Primer).
 
 ![Sponge Dark Grey](2018-01-30_22.45.07.jpg)
-* Sponge on the dark grey heavily.
+*  Sponge on the dark grey heavily.
 
 ![Sponge Dark Brown](2018-01-30_23.11.28.jpg)
 * Do a lighter sponge on of the dark brown
