@@ -22,16 +22,16 @@ Print the tile, and then give it a basic paint job. I do a very quick paint usin
 1) Use a flat grey primer spraypaint. Hold it at a 45 degree angle, at least a foot and a half from the tile, and use short bursts to get the basic color in place, while leaving black in the cracks and in the shadows, turning the tile around to get it from 360 degrees.
 1) Use a flat white primer spraypaint. Hold it at an 80 degree angle. Use very short bursts to highlight the top edges.
 
-![Primed Tile](2017-01-25 21.05.18.jpg)
+![Primed Tile](2017-01-25_21.05.18.jpg)
 
 Paint the square surfaces on the tile with white paint, doing as many layers as it takes for it to be a good solid white. Just like printing on paper where images will be more brilliant based on the brightness of the paper, the whiteness of the surface you attach the image to will impact it's brilliance.
 
-![White Paint](2017-01-25 21.30.51.jpg)
+![White Paint](2017-01-25_21.30.51.jpg)
 
 For the same reasons I make the tile surface bright white, I add a layer of metallic white, which is very reflective to add a sparkle to the lighter parts of the image.
 
-![Metallic White Paint](2017-01-25 22.51.06.jpg)
-![Metallic White Paint](2017-01-25 22.51.27.jpg)
+![Metallic White Paint](2017-01-25_22.51.06.jpg)
+![Metallic White Paint](2017-01-25_22.51.27.jpg)
 
 ### Print the image
 
@@ -45,11 +45,11 @@ Cut the image out of the paper. Some of the images are designed to be centered (
 
 You will need to get a polymer that can hold onto the toner as the paper is removed. The best I'm aware of is using a gel medium. For example, Liquitex Gloss or Matte Gel. You can also use Mod-Podge, but it's slightly more prone to failure.
 
-![Medium](2017-01-25 22.59.42.jpg)
+![Medium](2017-01-25_22.59.42.jpg)
 
 Glue the image down, making sure the medium is well spread over all of the image area you want to transfer. For the edge to edge images, I even applied some medium directly to the tile to make sure it got into all the cracks or holes left by the 3d printing process. You will want to press down as you apply, being sure to make sure there is good contact for the image everywhere. Any place that doesn't glue down well could be accidentally removed in the final steps. Let the medium harden for at least an hour. Overnight is even better.
 
-![Apply Image](2017-01-25 22.59.21.jpg)
+![Apply Image](2017-01-25_22.59.21.jpg)
 
 ### Find the image
 
