@@ -39,6 +39,7 @@ For the most part, I use [Americana Craft Paint](https://decoart.com/americana/)
 * [Gloss varnish](http://amzn.to/2Ew6nHu) for things like water, metal, etc.
 * [Matte varnish](http://amzn.to/2BjbusS) for everything else
 * Various metallics from a variety of craft paint lines for metals.
+* [Liquitex Matte Medium](http://amzn.to/2CiHOZq) for making washes or glazes.
 
 #### Paint Brushes
 You will need paint brushes.  For terrain they don't have to be of high wuality, but expect to toss them from time to time.  Here's a [big set](http://amzn.to/2CjrPdL) that's wholly sufficient.  You will want some wide for dry brushing, and some fine point for detail work.  I tend to use Golden Taklon for synthetic brushes.  You will also want some [paint sponges](http://amzn.to/2EEMa2A).
