@@ -1,4 +1,5 @@
-# Painting the dungeon stackers
+# Dungeon Stacker Paint Guide
+[Up to other guides](../README.md)
 
 You need the following:
 
@@ -26,4 +27,4 @@ Sadly, my first pictures are lost, so here's the summary:
 ![Dry Brush Light Grey](2018-01-31_00.05.04.jpg)
 * dry brush on your light grey, trying to catch the edges as much as you can.
 
-
+[Up to other guides](../README.md)
