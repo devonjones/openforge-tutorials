@@ -7,6 +7,9 @@
   * Brown/red stone
   * Metal
   * Wood
+* [Red Brown Sandstone Paint Guide](red_sandstone/README.md)
+  * Red Brown Sandstone
+  * Video
 * [Tools, Supplies and Introduction](../sets/README.md)
 
 [Up](../README.md)

@@ -29,8 +29,6 @@
 * [Liquitex Matte Medium](http://amzn.to/2CiHOZq)
 * Water
 
-
-
 ### Other Supplies
 * 1.75 mm filament, 8 short lengths about 3/4"
 * Cyanoacrylate glue (super glue) such as [Gorilla Super Glue Gel](http://amzn.to/2H58rEX)
