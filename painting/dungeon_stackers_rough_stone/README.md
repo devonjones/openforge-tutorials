@@ -14,8 +14,9 @@ Sadly, my first pictures are lost, so here's the summary:
 * Glue the dungeon stackers together, using a hobby knife to smooth the seams (and putty if you want for additional smoothing).
 * Prime them with black spray primer (I use Krylon Flat Black Camo Primer).
 
-![Sponge Dark Grey](2018-01-30_22.45.07.jpg)
-* Sponge on the dark grey heavily.
+![Sponge Dark Grey](2018-01-30_22.45.07.jpg) |
+--------------------------------------------
+* Sponge on the dark grey heavily.           |
 
 ![Sponge Dark Brown](2018-01-30_23.11.28.jpg)
 * Do a lighter sponge on of the dark brown
