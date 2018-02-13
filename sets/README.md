@@ -33,12 +33,15 @@ For the most part, I use [Americana Craft Paint](https://decoart.com/americana/)
 
 * [Black](http://amzn.to/2CahP6G) (worth getting in [large](http://amzn.to/2H2cTnW)), [White](http://amzn.to/2BkihlP)
 * [Zinc](http://amzn.to/2BmC6t2), [Neutral Grey](http://amzn.to/2Eed16e) and [Slate Grey](http://amzn.to/2C89rVe) for stone.
-* [Raw Umber](http://amzn.to/2EvH1JW), [Raw Sienna](http://amzn.to/2EfKJIz) and [Honey Brown](http://amzn.to/2BmMi4O) for wood.
+* [Raw Umber](http://amzn.to/2EvH1JW), [Burnt Umber](http://amzn.to/2HbRqZR), [Raw Sienna](http://amzn.to/2EfKJIz) and [Honey Brown](http://amzn.to/2BmMi4O) for wood.
 * [Hauser Light Green](http://amzn.to/2C8XNJE), [Hauser Medium Green](http://amzn.to/2Es3lEv) and [Hauser Dark Green](http://amzn.to/2BOxpJA) for moss/lichen.
 * [Ultra Blue Deep](http://amzn.to/2Es6PXz), [True Blue](http://amzn.to/2ERKcJE) and [Ocean Blue](http://amzn.to/2C8SNEW) for water.
 * [Gloss varnish](http://amzn.to/2Ew6nHu) for things like water, metal, etc.
 * [Matte varnish](http://amzn.to/2BjbusS) for everything else
 * Various metallics from a variety of craft paint lines for metals.
+
+#### Paint Brushes
+You will need paint brushes.  For terrain they don't have to be of high wuality, but expect to toss them from time to time.  Here's a [big set](http://amzn.to/2CjrPdL) that's wholly sufficient.  You will want some wide for dry brushing, and some fine point for detail work.  I tend to use Golden Taklon for synthetic brushes.  You will also want some [paint sponges](http://amzn.to/2EEMa2A).
 
 #### Water
 When I want to do water in something like a fountain, I use Woodland Scenics [Water Effects](http://amzn.to/2ERGfor).
