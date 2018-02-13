@@ -7,5 +7,6 @@
   * Brown/red stone
   * Metal
   * Wood
+* [Tools, Supplies and Introduction](../sets/README.md)
 
 [Up](../README.md)

@@ -1,7 +1,7 @@
 # OpenForge tutorials
 
 * [Guides](guides/README.md)
-* [Tools, Supplies and Introduction to sets](sets/README.md)
+* [Tools, Supplies and Introduction](sets/README.md)
 
 ## Sets
 
