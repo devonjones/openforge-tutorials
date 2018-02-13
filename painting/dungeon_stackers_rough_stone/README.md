@@ -17,13 +17,13 @@ Sadly, my first pictures are lost, so here's the summary:
 ![Sponge Dark Grey](2018-01-30_22.45.07.jpg)
 * Sponge on the dark grey heavily.
 
-![Sponge Dark Brown](./2019-01-30 23.11.28.jpg)
+![Sponge Dark Brown](2019-01-30_23.11.28.jpg)
 * Do a lighter sponge on of the dark brown
 
-![Sponge Light Brown](./2018-01-30 23.26.45.jpg)
+![Sponge Light Brown](2018-01-30_23.26.45.jpg)
 * Do an even lighter sponging on of the light brown
 
-![Dry Brush Light Grey](./2018-01-31 00.05.04.jpg)
+![Dry Brush Light Grey](2018-01-31_00.05.04.jpg)
 * dry brush on your light grey, trying to catch the edges as much as you can.
 
 
