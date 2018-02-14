@@ -11,7 +11,7 @@
 * [Red Brown Sandstone Paint Guide](red_sandstone/README.md)
   * Red Brown Sandstone
   * Video
-* [Sewers Paint and Build Guide](sewers/REAME.md)
+* [Sewers Paint and Build Guide](sewer/REAME.md)
   * Mossy Stone
   * Dirty Stone
   * Rust
