@@ -11,6 +11,10 @@
 * [Red Brown Sandstone Paint Guide](red_sandstone/README.md)
   * Red Brown Sandstone
   * Video
+* [Sewers Paint and Build Guide](sewers/REAME.md)
+  * Mossy Stone
+  * Dirty Stone
+  * Rust
 * [Tools, Supplies and Introduction](../sets/README.md)
 * [Mosaic / Image Transfer Guide](mosaic/README.md)
   * Shows how to transfer laser printed images to flat surfaces on tiles

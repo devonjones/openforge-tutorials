@@ -5,9 +5,13 @@
 
 ### Paint
 * [Brown Krylon Fusion Primer](http://amzn.to/2Et5nEm) Ultra Flat Camoflage
-* [Raw Umber](http://amzn.to/2EvH1JW)
-* Americana [Raw Sienna](http://amzn.to/2EfKJIz)
-* Burnt Sienna (Americana)
+* Americana (or other) Craft Paint
+  * [Raw Umber](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA130-3&Category_Code=DA-2)
+  * [Raw Sienna](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO93-3&Category_Code=DA-2)
+  * [Burnt Sienna](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO63-3&Category_Code=DA-2)
+  * [Honey Brown](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA163-3&Category_Code=DA-2)
+  * [Desert Sand](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO77-3&Category_Code=DA-2)
+  * * Burnt Sienna (Americana)
 * Americana [Honey Brown](http://amzn.to/2BmMi4O)
 * Desert Sand (Americana) (Couldn't finde a good price, go to a craft store)
 

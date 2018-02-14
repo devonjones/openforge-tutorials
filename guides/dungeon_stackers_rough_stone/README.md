@@ -2,9 +2,13 @@
 [Up to other guides](../README.md)
 
 You need the following:
-
 * [Krylon Fusion](http://amzn.to/2C8XG0L) Flat Black Camo Primer (or other black primer)
-* Americana [Zinc](http://amzn.to/2BmC6t2) (or other dark grey)
+* Americana (or other) Craft Paints
+  * [Zinc](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA304-3&Category_Code=DA-2)
+  * [Burnt Umber](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO64-3&Category_Code=DA-2)
+  * [Honey Brown](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA163-3&Category_Code=DA-2)
+  * [Neutral Grey](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO95-3&Category_Code=DA-2)
+  * [Slate Grey](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO68-3&Category_Code=DA-2)
 * Americana [Burnt Umber](http://amzn.to/2HbRqZR) (or other dark brown)
 * Americana [Honey Brown](http://amzn.to/2BmMi4O) (or other light brown)
 * Americana [Slate Grey](http://amzn.to/2C89rVe) or [Neutral Grey](http://amzn.to/2Eed16e) (or other light grey)

@@ -13,19 +13,22 @@
 
 ### Paint
 * [Brown Krylon Fusion Primer](http://amzn.to/2Et5nEm) Ultra Flat Camoflage
-* Burnt Sienna (Americana)
-* Americana [Raw Sienna](http://amzn.to/2EfKJIz)
-* Americana [Honey Brown](http://amzn.to/2BmMi4O)
-* Fawn (Americana) (Couldn't find a good price, go to a craft store)
-* Desert Sand (Americana) (Couldn't finde a good price, go to a craft store)
-* Sepia Wash ([Vallejo Game Color Wash Set](http://amzn.to/2F2xOGW)) or [Citadel Seraphim Sepia](https://www.miniaturemarket.com/gw-24-09.html)
-* Umber Wash ([Vallejo Game Color Wash Set](http://amzn.to/2F2xOGW)) or [Citadel Agrax Earthshade](https://www.miniaturemarket.com/gw-24-15.html)
-* Black Wash ([Vallejo Game Color Wash Set](http://amzn.to/2F2xOGW)) or [Citadel Nuln Oil](https://www.miniaturemarket.com/gw-24-12.html)
-* Adamantine Black 09124 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
-* Old Pewter 09196 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
-* Old Bronze 09197 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
-* Spruce Green 29846 ([Reaper Master Series HD](https://www.reapermini.com/Paints/corecolors))
-* Sapphire Blue 09016 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
+* Americana (or other Craft) Paints 
+  * [Burnt Sienna](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO63-3&Category_Code=DA-2)
+  * [Raw Sienna](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO93-3&Category_Code=DA-2)
+  * [Honey Brown](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA163-3&Category_Code=DA-2)
+  * [Desert Sand](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO77-3&Category_Code=DA-2)
+  * [Fawn](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA242-3&Category_Code=DA-2)
+* Vallejo Game Washes (or Citadel)
+  * Sepia Wash ([Vallejo Game Color Wash Set](http://amzn.to/2F2xOGW)) or [Citadel Seraphim Sepia](https://www.miniaturemarket.com/gw-24-09.html)
+  * Umber Wash ([Vallejo Game Color Wash Set](http://amzn.to/2F2xOGW)) or [Citadel Agrax Earthshade](https://www.miniaturemarket.com/gw-24-15.html)
+  * Black Wash ([Vallejo Game Color Wash Set](http://amzn.to/2F2xOGW)) or [Citadel Nuln Oil](https://www.miniaturemarket.com/gw-24-12.html)
+* Reaper Paints
+  * Adamantine Black 09124 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
+  * Old Pewter 09196 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
+  * Old Bronze 09197 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
+  * Spruce Green 29846 ([Reaper Master Series HD](https://www.reapermini.com/Paints/corecolors))
+  * Sapphire Blue 09016 ([Reaper Master Series](https://www.reapermini.com/Paints/corecolors))
 * [Liquitex Matte Medium](http://amzn.to/2CiHOZq)
 * Water
 

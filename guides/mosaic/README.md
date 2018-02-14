@@ -3,12 +3,12 @@
 
 # Supplies
 * [Krylon Fusion](http://amzn.to/2C8XG0L) Flat Black Camo Primer (or other black primer)
-* White Paint
-* Metallic White Pearl Paint
+* [Snow (Titanium) White](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO1-3&Category_Code=DA-2)
+* [Metallic White Pearl](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA117-3&Category_Code=)
 * Laser Printer
 * Images to print (Find some nice public domain images that can be mosaics [here](https://www.thingiverse.com/thing:2063860))
 * Paper
-* Liquitex Gloss Gell Medium
+* [Liquitex Gloss Gel Medium](http://amzn.to/2BvZYdR)
 * Water
 
 ## Tile preparation
