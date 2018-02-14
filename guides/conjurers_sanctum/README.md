@@ -44,58 +44,57 @@ Prime them all in black, or for the wood pieces in a dark brown. If you don’t 
 
 ### Stonework Painting
 Do a heavy coat of dark grey over the stone surfaces, leaving black in the crevices. I used Stormy Grey from Craft Smart
-[Zinc](2017-12-20_21.11.01.jpg)
+![Zinc](2017-12-20_21.11.01.jpg)
 
 Do a light coat (or heavy dry brush) with a light grey. I used Americana Slate Grey
-[Slate Grey](2017-12-20_21.29.44.jpg)
+![Slate Grey](2017-12-20_21.29.44.jpg)
 
 Do a spotted dry brush of a dark green with brownish hues. You want this to be mottled. I used Americana Hauser Dark Green.
-[Hauser Dark Green](2017-12-20_21.47.52.jpg)
+![Hauser Dark Green](2017-12-20_21.47.52.jpg)
 
 Do the same, but a lighter touch over some of the same area with a lighter green. I used Americana Hauser Medium Green.
-[Hauser Medium Green](2017-12-20_21.58.27.jpg)
+![Hauser Medium Green](2017-12-20_21.58.27.jpg)
 
 Do a dry brush over the same area with an even lighter green. Focus on high surfaces and edges. I used Americana Hauser Light Green.
-[Hauser Light Green](2017-12-20_22.06.34.jpg)
+![Hauser Light Green](2017-12-20_22.06.34.jpg)
 
 ### Wood Painting
 Do a heavy dry brush on all the wood pieces of a medium brown. I used Americana Milk Chocolate
-[Milk Chocolate](2017-12-21_11.38.31.jpg)
+![Milk Chocolate](2017-12-21_11.38.31.jpg)
 
 Do a light dry brush of a light brown on all the wooden pieces. I used Americana Honey Brown
-[Honey Brown](2017-12-21_11.43.30.jpg)
+![Honey Brown](2017-12-21_11.43.30.jpg)
 
 Glue the wood pillars to 4 of the stone backs.
-[Glue Pillars](2017-12-21_11.49.38.jpg)
+![Glue Pillars](2017-12-21_11.49.38.jpg)
 
 You will want to do the gluing with the back against a floor tile, and use a banner bar on top as a reference to make sure the spacing is correct.
-[Glueing](2017-12-21_11.46.27.jpg)
+![Glueing](2017-12-21_11.46.27.jpg)
 
 Main part done. You'll want to use openlock clips to hold the whole thing together.
-[Main Part Complete](2017-12-21_11.46.47.jpg)
-[Main Part Complete](2017-12-21_11.51.13.jpg)
+![Main Part Complete](2017-12-21_11.46.47.jpg)
+![Main Part Complete](2017-12-21_11.51.13.jpg)
 
 ### Door Painting
 Paint the doors bronze. I used Craft Smart Espresso metallic.
-[Espresso Metallic](2017-12-21_12.03.26.jpg)
+![Espresso Metallic](2017-12-21_12.03.26.jpg)
 
 I hit mine with a dark brown wash. I used Citadel Agrax Earthshade. In hindsight, this step was probably not needed.
-[Brown Wash](2017-12-21_12.18.55.jpg)
+![Brown Wash](2017-12-21_12.18.55.jpg)
 
 Hit the whole door with a very watered down turquoise. I used Reaper Master Series Copper Verdigris.
-[Verdigris](2017-12-21_13.25.59.jpg)
+![Verdigris](2017-12-21_13.25.59.jpg)
 
 ### Portal Disk Painting
 Get some white into the lines and circles of the portal disk and frame.use very thin washes of white around the edges onto the surface of the disk with the white. I used Reaper Master Series Pure White 09039
-[Glow Effect](2017-12-20_22.29.02.jpg)
+![Glow Effect](2017-12-20_22.29.02.jpg)
 
 So for my final version, I actually used an airbrush for the white. I was not happy with how my washes were coming out. I used the process from Hobby Cheating 40: How to paint glowing runes . There's both a brush and airbrush version in the video.
-https://www.youtube.com/watch?v=
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oSHgAsoH5Qs" target="_blank"><img src="http://img.youtube.com/vi/oSHgAsoH5Qs/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Put a yellow ink into the lines, and cover over the white on the raised surface. I used Vallejo Game Ink Yellow 72.085
-[Yellow Ink](2017-12-20_22.37.10.jpg)
+![Yellow Ink](2017-12-20_22.37.10.jpg)
 
 ## Flat Rounds
 For the flat round disks, what you want to do is find images on google images, then print those on photo paper. Cut them in the round and glue them to the disks. I suggest covering them with a layer of modpodge to give them strength.
@@ -103,7 +102,8 @@ For the flat round disks, what you want to do is find images on google images, t
 ## Banners
 ### Supplies
 This set comes with the conjurer's banner. The symbols on the banners for the Wizard's Sanctum series of encounters came from a post on rebrn .
-[Mod Podge](2017-12-16_16.58.41.jpg)
+![Mod Podge](2017-12-16_16.58.41.jpg)
+
 To create the banners you will need:
 * Print the 4x png (attached) of the conjurer's banner at 600 dpi. Cut them out.
 * 8 prints of banner_bar.half.stl. Glued and painted gold.
@@ -114,9 +114,9 @@ To create the banners you will need:
 ### Assembly
 
 Use the glue stick to add glue to half of the banner, then fold around the banner bar.
-[Banners](2017-12-17_17.10.26.jpg)
+![Banners](2017-12-17_17.10.26.jpg)
 
 You can see some white on the edges. Use the black sharpie to eliminate this. Following that, cover the banners in Mod Podge to give them a somewhat cloth like texture (and to protect them from water).
-[Banner](2017-12-17_09.17.21.jpg)
+![Banner](2017-12-17_09.17.21.jpg)
 
 [Up to other guides](../README.md)
