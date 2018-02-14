@@ -3,6 +3,11 @@
 
 * [Dungeon Stackers Paint Guide](dungeon_stackers_rough_stone/README.md)
   * Grey/brown stone
+* [Conjurer's Sanctum Paint and Build Guide](conjurers_sanctum/README.md)
+  * Updated Mossy Stone
+  * Bronze with verdigris
+  * Glow Effect on runes
+  * Wood
 * [Morehead Mausoleum Paint and Build Guide](morehead_mausoleum/README.md)
   * Brown/red stone
   * Metal

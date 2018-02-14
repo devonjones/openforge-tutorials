@@ -17,8 +17,6 @@
 
 ## Painting Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7FGWaC4HtNk
-" target="_blank"><img src="http://img.youtube.com/vi/7FGWaC4HtNk/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7FGWaC4HtNk" target="_blank"><img src="http://img.youtube.com/vi/7FGWaC4HtNk/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [Up to other guides](../README.md)
