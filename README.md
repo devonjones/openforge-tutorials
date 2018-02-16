@@ -5,11 +5,11 @@
 
 ## Sets
 
-* [Ultra Basic Set](ultra_basic.md)
-* [Basic Set](basic.md) <- Start here
-* [Diagonal Set](diagonal.md)
-* [Curved Set](curved.md)
-* [OpenLOCK Set](openlock.md)
+* [Ultra Basic Set](sets/ultra_basic.md)
+* [Basic Set](sets/basic.md) <- Start here
+* [Diagonal Set](sets/diagonal.md)
+* [Curved Set](sets/curved.md)
+* [OpenLOCK Set](sets/openlock.md)
 <!--
 * [Hallway Set](hallway.md)
 * [Options](options.md)
