@@ -1,10 +1,10 @@
 # Curved Set
 
-* 8 2x2 Curved (Curved floor)
-* 8 2x2 Curved (Square floor)
-* 4 4x4 Curved (Curved floor)
-* 2 2x4 Curved (Curved floor)
-* 2 4x2 Curved (Curved floor)
+* 8 2x2 Curved (Curved base)
+* 8 2x2 Curved (Square base)
+* 4 4x4 Curved (Curved base)
+* 2 2x4 Curved (Curved base)
+* 2 4x2 Curved (Curved base)
 
 ## Cut-Stone
 
