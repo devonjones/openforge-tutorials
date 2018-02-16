@@ -8,7 +8,7 @@
 
 ## Cut-Stone
 
-* [Curved](https://www.thingiverse.com/thing:1456837)
+* [Curved Curved Base](https://www.thingiverse.com/thing:1456837)
 * [Curved Square Base](https://www.thingiverse.com/thing:1456863)
 
 ## Cut-Stone Half-Height
