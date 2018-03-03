@@ -1,14 +1,16 @@
 # Curved Set
 
-* 8 2x2 Curved (Curved floor)
-* 8 2x2 Curved (Square floor)
-* 4 4x4 Curved (Curved floor)
-* 2 2x4 Curved (Curved floor)
-* 2 4x2 Curved (Curved floor)
+* 8 2x2 Curved (Curved base)
+* 8 2x2 Curved (Square base)
+* 4 4x4 Curved (Curved base)
+* 2 2x4 Curved (Curved base)
+* 2 4x2 Curved (Curved base)
+
+The intention of curved bases vs square bases is that sometimes you may want a curved wall inside a building vs on the exterior.  Square bases let you add curved walls to the interior of buildings, while curved bases look cleaner on the exterior.
 
 ## Cut-Stone
 
-* [Curved](https://www.thingiverse.com/thing:1456837)
+* [Curved Curved Base](https://www.thingiverse.com/thing:1456837)
 * [Curved Square Base](https://www.thingiverse.com/thing:1456863)
 
 ## Cut-Stone Half-Height
