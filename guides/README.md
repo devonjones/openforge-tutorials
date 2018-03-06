@@ -22,6 +22,8 @@
   * Mossy Stone
   * Dirty Stone
   * Rust
+* [Legacy Ruined Tile Paint Guide](ruined/README.md)
+  * Grey stone
 * [Tools, Supplies and Introduction](../sets/README.md)
 * [Mosaic / Image Transfer Guide](mosaic/README.md)
   * Shows how to transfer laser printed images to flat surfaces on tiles
