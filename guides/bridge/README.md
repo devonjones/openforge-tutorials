@@ -36,11 +36,11 @@ If you magnitize like I suggest in #1 above, in this picture below, you can see 
 
 Here is an example of using magnets on a finished part to prepare to seat them into the new part.
 
-![Example of using one finished part to make another](2018-03-03 14.27.11.jpg)
+![Example of using one finished part to make another](2018-03-03_14.27.11.jpg)
 
 Here we see the magnets hammered in, flush.  You want them flush, or even under the lip of the plastic so that the magnets aren't the primary point of contact.  the plastic has more friction, so having it be the contact is better.  Also, if your printer gets that ridge of elephant foot around the bottom of prints, use an xacto to cut that off, as it can make the final bridge not be straight.
 
-![Magnets finished](2018-03-03 14.30.03.jpg)
+![Magnets finished](2018-03-03_14.30.03.jpg)
 
 Here we have trhe magnets seated into the bottom so that the arch can attach to a base.
 
