@@ -1,6 +1,8 @@
 # OpenForge Guides
 [Up](../README.md)
 
+* [Bridge Paint Guide](bridge/README.md)
+  * Grey/brown stone - similar to the dungeon stackers, but different surfaces.
 * [Dungeon Stackers Paint Guide](dungeon_stackers_rough_stone/README.md)
   * Grey/brown stone
 * [Conjurer's Sanctum Paint and Build Guide](conjurers_sanctum/README.md)

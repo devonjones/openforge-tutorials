@@ -68,6 +68,9 @@ Here's a [reasonably cheap one](http://amzn.to/2BjyIPu) and one that has a [ton 
 #### Flush Cutters
 Here's a cheap set from [amazon](http://amzn.to/2BkOkCf).  Cheap snips generally are softer, so their blade is more easily destroyed.  So long as you **only** use this on plastic, you can go as cheap as you want.
 
+#### Jewelry Mallet
+From time to time, I need a [Jewelry Mallet](http://amzn.to/2FgFwjV) (or from [Harbor Freight](https://www.harborfreight.com/double-sided-mallet-with-wooden-handle-98285.html)).  Generally it's for getting the cylindrical magnets to sit flush.
+
 #### Lighter
 I use a standard bic lighter.  Best way to get rid of stringing if you have any.  Also super useful for making rivets out of filament.
 
