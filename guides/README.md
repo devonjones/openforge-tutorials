@@ -1,6 +1,9 @@
 # OpenForge Guides
 [Up](../README.md)
 
+* [Mangonel Paint and Assembly Guide](mangonel/README.md)
+  * Wood
+  * Metal
 * [Bridge Paint Guide](bridge/README.md)
   * Grey/brown stone - similar to the dungeon stackers, but different surfaces.
 * [Dungeon Stackers Paint Guide](dungeon_stackers_rough_stone/README.md)

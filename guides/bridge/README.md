@@ -10,9 +10,6 @@ You need the following:
   * [Honey Brown](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DA163-3&Category_Code=DA-2)
   * [Neutral Grey](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO95-3&Category_Code=DA-2)
   * [Slate Grey](https://decoart.com/Merchant2/merchant.mvc?Session_ID=9dfbaac54a360cee1f9f4ea541267a45&Screen=PROD&Store_Code=D&Product_Code=DAO68-3&Category_Code=DA-2)
-* Americana [Burnt Umber](http://amzn.to/2HbRqZR) (or other dark brown)
-* Americana [Honey Brown](http://amzn.to/2BmMi4O) (or other light brown)
-* Americana [Slate Grey](http://amzn.to/2C89rVe) or [Neutral Grey](http://amzn.to/2Eed16e) (or other light grey)
 * A [paint sponge](http://amzn.to/2EEMa2A)
 
 If you plan on magnitizing you will need:
