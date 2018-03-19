@@ -28,31 +28,40 @@ When magnitizing, you will want to be pretty careful about a number of things.
 4) If the hole is tight, put a few other magnets on top of it, and then use the rubber side of the mallet to hammer the magnet into place.
 
 If you magnitize like I suggest in #1 above, in this picture below, you can see that no matter how the bigger block is oriented, it can still connect to the smaller block.
+
 ![Polarities](polarities.png)
 
 Here is an example of using magnets on a finished part to prepare to seat them into the new part.
-![Example of using one finished part to make another](2018-03-03 14.27.11.jpg)
+
+![Example of using one finished part to make another](2018-03-03_14.27.11.jpg)
 
 Here we see the magnets hammered in, flush.  You want them flush, or even under the lip of the plastic so that the magnets aren't the primary point of contact.  the plastic has more friction, so having it be the contact is better.  Also, if your printer gets that ridge of elephant foot around the bottom of prints, use an xacto to cut that off, as it can make the final bridge not be straight.
-![Magnets finished](2018-03-03 14.30.03.jpg)
+
+![Magnets finished](2018-03-03_14.30.03.jpg)
 
 Here we have trhe magnets seated into the bottom so that the arch can attach to a base.
+
 ![Magnets on the bottom](2018-03-03_18.17.25.jpg)
 
 ## Painting
 If you are going to do magnets, after the magnets are added, and after you have cleared the supports out of the OpenLOCK bays, it's time to prime with the Krylon.
+
 ![Primed](2018-03-06_08.25.24.jpg)
 
 Next, sponge on Zinc (or other cool dark grey) onto the bridge, hitting all surfaces, but leaving black in the cracks.  On the underside, you will want the sponge to have most paint wiped off, then rub it across the support stones of the arch at a 90 degree angle to the cracks between so that it leaves some black in the bottom of the cracks.
+
 ![Zinc](2018-03-06_08.30.27.jpg)
 
 Next, sponge on some burnt umber on the stones on the side of the arch, and between the border stones on the top.  Avoid the border stones, and the cut stones in the actual archway.
+
 ![Burnt Umber](2018-03-06_08.32.10.jpg)
 
 Next, do the same with Raw Sienna.
+
 ![Raw Sienna](2018-03-06_08.33.46.jpg)
 
 Dry brush on some Neutral Grey (or other warm grey).  then use the Neutral Grey to paint the border stones.
+
 ![Neutral Grey](2018-03-06_08.36.34.jpg)
 
 Finally, paint on the Slate Grey (or other light, cool grey).  You want to paint it on the capstone of the base, as well as the stones that make up the archway.  Try to leave some black/zinc showing in the cracks and holes.
@@ -60,6 +69,7 @@ Finally, paint on the Slate Grey (or other light, cool grey).  You want to paint
 ![Slate Grey](2018-03-06_08.39.09.jpg)
 
 Final product:
+
 ![Final Product](2018-03-06_08.39.56.jpg)
 
 [Up to other guides](../README.md)
