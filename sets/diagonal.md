@@ -14,14 +14,10 @@
 
 ## Dungeon Stone
 
-A 2.0 dungeon stone diagonal set has not yet been released, but there are 1.0 tiles
+Dungeon Stone Diagonals are the first set with 2x4/4x2 diagonals.  We suggest adding in 2 of each.
 
-* [https://www.thingiverse.com/thing:260878](Diagonal) Set has backside diagonals that can be glued on if you like to make square tiles.  The diagonal wall isn't the same as what we now publish.
-
-## Tudor
-
-* [Diagonal](https://www.thingiverse.com/thing:1669833)
-* [Diagonal Square Bases](https://www.thingiverse.com/thing:1669832)
+* [Diagonal](https://www.thingiverse.com/thing:2915250)
+  * [bases](https://www.thingiverse.com/thing:2740279)
 
 ## Rough Stone
 
@@ -36,6 +32,11 @@ A 2.0 dungeon stone diagonal set has not yet been released, but there are 1.0 ti
   * Suggested prints
   * 16x, 2 each of ruined_wall.diagonal.ckit.2x2.full-half, full-low, half-full, half, half-low, low-full, low-half, low
   * 24x ruined_diagonal.floor.2x2  (square diagonal tiles use 2)
+
+## Tudor
+
+* [Diagonal](https://www.thingiverse.com/thing:1669833)
+* [Diagonal Square Bases](https://www.thingiverse.com/thing:1669832)
 
 # Navigation
 
