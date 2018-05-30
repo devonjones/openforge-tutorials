@@ -14,6 +14,36 @@ Requires 1-2 1 kg rolls of filament and 376 Magnets.  You will also need some cy
 
 For flexibility, and to maximize the chances of producing usable parts we suggest using construction kit versions of tiles wherever possible.
 
+## Cut-Stone
+
+376 Magnets
+
+* Walls
+  * [Walls](https://www.thingiverse.com/thing:1419276) as one piece
+  * [Wall Floors](https://www.thingiverse.com/thing:1640988) & [Wall Backs](https://www.thingiverse.com/thing:1641002) as a construction kit
+  * 14x cut_stone_floor.2x2.internal.ckit
+  * 14x cut_stone_wall.2x.internal.standard.ckit
+* Corners
+  * [Corners](https://www.thingiverse.com/thing:1434550) as one piece
+  * [Corner Floors](https://www.thingiverse.com/thing:1727359) & [Corner Backs](https://www.thingiverse.com/thing:1727402) as a constuction kit
+* [Floors](https://www.thingiverse.com/thing:1422779)
+* Doors
+  * [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
+  * [Wall Floors](https://www.thingiverse.com/thing:1640988) & [Wall Backs](https://www.thingiverse.com/thing:1641002) as a construction kit.  Wall backs contains every variety of cut-stone backs for the construction kit.
+  * 4x (arched) cut_stone_door.2xW.internal.standard.ckit
+  * 4x (wood frame) cut_stone_door_square.stone_floor.2xW.internal.standard.ckit + door_lintel_1, 2 or 3
+  * 4x cut_stone_floor.2x2.internal.ckit
+  * 4x 2x2 square base in the connector style you prefer
+* [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
+
+## Cut-Stone Half-Height
+
+Windows and Doors don't make much sense at half-height.  If your goal is to create a set that lets you easily see the miniatures, we suggest printing the half-height set and then printing full height doors and windows above.
+
+* [Walls](https://www.thingiverse.com/thing:1591395)
+* [Corners](https://www.thingiverse.com/thing:1598304)
+* [Floors](https://www.thingiverse.com/thing:1422779) (Same as Cut-Stone floors above)
+
 ## Dungeon Stone
 
 376 Magnets
@@ -47,46 +77,6 @@ For flexibility, and to maximize the chances of producing usable parts we sugges
 We have not yet published OpenForge 2.0 versions of arrow slits, but an OpenForge 1.0 version is available
 
 * [Arrow Slits](https://www.thingiverse.com/thing:563090)
-
-## Cut-Stone
-
-376 Magnets
-
-* Walls
-  * [Walls](https://www.thingiverse.com/thing:1419276) as one piece
-  * [Wall Floors](https://www.thingiverse.com/thing:1640988) & [Wall Backs](https://www.thingiverse.com/thing:1641002) as a construction kit
-  * 14x cut_stone_floor.2x2.internal.ckit
-  * 14x cut_stone_wall.2x.internal.standard.ckit
-* Corners
-  * [Corners](https://www.thingiverse.com/thing:1434550) as one piece
-  * [Corner Floors](https://www.thingiverse.com/thing:1727359) & [Corner Backs](https://www.thingiverse.com/thing:1727402) as a constuction kit
-* [Floors](https://www.thingiverse.com/thing:1422779)
-* Doors
-  * [Arched Doors](https://www.thingiverse.com/thing:1440089) or [Wood Frame Doors](https://www.thingiverse.com/thing:1722459) (consider doing a full set of both)
-  * [Wall Floors](https://www.thingiverse.com/thing:1640988) & [Wall Backs](https://www.thingiverse.com/thing:1641002) as a construction kit.  Wall backs contains every variety of cut-stone backs for the construction kit.
-  * 4x (arched) cut_stone_door.2xW.internal.standard.ckit
-  * 4x (wood frame) cut_stone_door_square.stone_floor.2xW.internal.standard.ckit + door_lintel_1, 2 or 3
-  * 4x cut_stone_floor.2x2.internal.ckit
-  * 4x 2x2 square base in the connector style you prefer
-* [Arched Windows](https://www.thingiverse.com/thing:1541301) or [Square Windows](https://www.thingiverse.com/thing:1674376) (consider doing a full set of both)
-
-## Cut-Stone Half-Height
-
-Windows and Doors don't make much sense at half-height.  If your goal is to create a set that lets you easily see the miniatures, we suggest printing the half-height set and then printing full height doors and windows above.
-
-* [Walls](https://www.thingiverse.com/thing:1591395)
-* [Corners](https://www.thingiverse.com/thing:1598304)
-* [Floors](https://www.thingiverse.com/thing:1422779) (Same as Cut-Stone floors above)
-
-## Tudor
-
-376 Magnets
-
-* [Walls](https://www.thingiverse.com/thing:1598377), [Wall Variations Set 1](https://www.thingiverse.com/thing:1598386), [Wall Variations Set 2](https://www.thingiverse.com/thing:1618353), [Wall Construction Kit Parts](https://www.thingiverse.com/thing:1641003), [Wall Construction Kit Floors](https://www.thingiverse.com/thing:1640999)
-* [Corners](https://www.thingiverse.com/thing:1635716), [Corner Variations Set 1](https://www.thingiverse.com/thing:1635721) [Corner Construction Kit Parts](https://www.thingiverse.com/thing:1727412), [Corner Construction Kit Floors](https://www.thingiverse.com/thing:1727367)
-* [Floors](https://www.thingiverse.com/thing:1585586)
-* [Wood Frame Doors](https://www.thingiverse.com/thing:1649422), [Wood Frame Door Variations Set 1](https://www.thingiverse.com/thing:1649437)
-* [Square Windows](https://www.thingiverse.com/thing:1659308)
 
 ## Rough Stone
 Rough stone is a varation of ruined stone, where the pieces are complete.  If you print rough stone, we suggest also printing the full range of ruined variations, as the two work really well together to make partially intact buildings or rooms.
@@ -154,6 +144,16 @@ Ruined stone is a varation of rough stone, where the pieces are not entirely com
   * 2x shattered_stone_floor.2x2.corner.convex.mirrored
   * 2x shattered_stone_floor.2x2.corner.concave
   * 2x shattered_stone_floor.2x2.corner.concave.mirrored
+
+## Tudor
+
+376 Magnets
+
+* [Walls](https://www.thingiverse.com/thing:1598377), [Wall Variations Set 1](https://www.thingiverse.com/thing:1598386), [Wall Variations Set 2](https://www.thingiverse.com/thing:1618353), [Wall Construction Kit Parts](https://www.thingiverse.com/thing:1641003), [Wall Construction Kit Floors](https://www.thingiverse.com/thing:1640999)
+* [Corners](https://www.thingiverse.com/thing:1635716), [Corner Variations Set 1](https://www.thingiverse.com/thing:1635721) [Corner Construction Kit Parts](https://www.thingiverse.com/thing:1727412), [Corner Construction Kit Floors](https://www.thingiverse.com/thing:1727367)
+* [Floors](https://www.thingiverse.com/thing:1585586)
+* [Wood Frame Doors](https://www.thingiverse.com/thing:1649422), [Wood Frame Door Variations Set 1](https://www.thingiverse.com/thing:1649437)
+* [Square Windows](https://www.thingiverse.com/thing:1659308)
 
 # Navigation
 
