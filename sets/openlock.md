@@ -65,16 +65,24 @@ There is not currently a 7.2 openlock set, but there is a 6.0 openlock set, as w
 ## Dungeon Stone
 
 * [Primary Walls](https://www.thingiverse.com/thing:2787903) (A, BA, G, IA, Q, columns)
-* [Primary Floors](https://www.thingiverse.com/thing:2787905) (E, F, R, U)
-* [Primary Doors](https://www.thingiverse.com/thing:2823494) (A, BA, G, Q)-
-* Windows (not yet published)
+* [Primary Floors](https://www.thingiverse.com/thing:2787905) (AS, E, EA, F, I, R, S, SA, SB, U)
+* [Primary Doors](https://www.thingiverse.com/thing:2823494) (A, BA, G, Gx, Q)
+* [Windows](https://www.thingiverse.com/thing:2869741) (A, BA, G, Gx, Q) 
+
+Other:
+
+* [Curved Interface](https://www.thingiverse.com/thing:2844633) (floors and walls that match the outside of G walls to join a round room to a square one)
 
 ## Dungeon Stone Half-Height
 
 * [Low Primary Walls](https://www.thingiverse.com/thing:2787904) (A, BA, G, IA, Q, columns)
 * [Floors](https://www.thingiverse.com/thing:2787905) (E, F, U)
-* [Doors](https://www.thingiverse.com/thing:2823494) (A, BA, G, Q) (Not Low)
-* Windows (not yet published)
+* [Doors](https://www.thingiverse.com/thing:2823494) (A, BA, G, Gx, Q) (Not Low)
+* [Windows](https://www.thingiverse.com/thing:2869741) (A, BA, G, Gx, Q) (Not Low)
+
+Other:
+
+* [Curved Interface](https://www.thingiverse.com/thing:2844634) (floors and walls that match the outside of G walls to join a round room to a square one)
 
 ## Rough/Ruined Stone
 There is not currently a 7.2 openlock set, but there is a 6.0 openlock set, that has a subset of what we want.  A full 7.2 port is forthcoming.
