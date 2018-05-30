@@ -14,6 +14,40 @@ Requires 1-2 1 kg rolls of filament and 376 Magnets.  You will also need some cy
 
 For flexibility, and to maximize the chances of producing usable parts we suggest using construction kit versions of tiles wherever possible.
 
+## Dungeon Stone
+
+376 Magnets
+
+* [Floors](https://www.thingiverse.com/thing:2740273)
+  * 12 dungeon_stone.floor.25mm.2x2.stl
+  * 2 dungeon_stone.floor.25mm.2x2.stl
+  * [bases](https://www.thingiverse.com/thing:2740279)
+* [Walls](https://www.thingiverse.com/thing:2740274)
+  * 14 dungeon_stone_wall.floor.25mm.2x2.stl
+  * 14 dungeon_stone_wall.wall.25mm.2x.stl
+  * [bases](https://www.thingiverse.com/thing:2740279)
+* [Corners](https://www.thingiverse.com/thing:2740275)
+  * 8 dungeon_stone_corner.floor.25mm.2x2.stl
+  * 8 dungeon_stone_corner.wall.25mm.2x2.stl
+  * [bases](https://www.thingiverse.com/thing:2740279)
+* [Arched Doors](https://www.thingiverse.com/thing:2823497)
+  * 2 dungeon_stone_door.arched.narrow.wall.25mm.2x.stl
+  * 2 dungeon_stone_door.arched.wall.25mm.2x.stl
+  * 2 dungeon_stone_door.arched.wide.wall.25mm.4x.stl
+  * 4 dungeon_stone_door.floor.2x2.stl
+  * 2 dungeon_stone_door.floor.4x2.stl
+  * 2 rounded_door.wood_grain.narrow.upright.stl
+  * 2 rounded_door.wood_grain.standard.upright.stl
+  * 4 rounded_double_door.wood_grain.wide.upright.stl
+  * [bases](https://www.thingiverse.com/thing:2740279)
+ * [Arched Windows](https://www.thingiverse.com/thing:2869742)
+  * 2 dungeon_stone_window.arched.2x2.stl
+  * [bases](https://www.thingiverse.com/thing:2740279)
+  
+We have not yet published OpenForge 2.0 versions of arrow slits, but an OpenForge 1.0 version is available
+
+* [Arrow Slits](https://www.thingiverse.com/thing:563090)
+
 ## Cut-Stone
 
 376 Magnets
@@ -43,36 +77,6 @@ Windows and Doors don't make much sense at half-height.  If your goal is to crea
 * [Walls](https://www.thingiverse.com/thing:1591395)
 * [Corners](https://www.thingiverse.com/thing:1598304)
 * [Floors](https://www.thingiverse.com/thing:1422779) (Same as Cut-Stone floors above)
-
-## Dungeon Stone
-
-* [Floors](https://www.thingiverse.com/thing:2740273)
-  * 12 dungeon_stone.floor.25mm.2x2.stl
-  * 2 dungeon_stone.floor.25mm.2x2.stl
-  * [bases](https://www.thingiverse.com/thing:2740279)
-* [Walls](https://www.thingiverse.com/thing:2740274)
-  * 14 dungeon_stone_wall.floor.25mm.2x2.stl
-  * 14 dungeon_stone_wall.wall.25mm.2x.stl
-  * [bases](https://www.thingiverse.com/thing:2740279)
-* [Corners](https://www.thingiverse.com/thing:2740275)
-  * 8 dungeon_stone_corner.floor.25mm.2x2.stl
-  * 8 dungeon_stone_corner.wall.25mm.2x2.stl
-  * [bases](https://www.thingiverse.com/thing:2740279)
-* [Arched Doors](https://www.thingiverse.com/thing:2823497)
-  * 2 dungeon_stone_door.arched.narrow.wall.25mm.2x.stl
-  * 2 dungeon_stone_door.arched.wall.25mm.2x.stl
-  * 2 dungeon_stone_door.arched.wide.wall.25mm.4x.stl
-  * 4 dungeon_stone_door.floor.2x2.stl
-  * 2 dungeon_stone_door.floor.4x2.stl
-  * 2 rounded_door.wood_grain.narrow.upright.stl
-  * 2 rounded_door.wood_grain.standard.upright.stl
-  * 4 rounded_double_door.wood_grain.wide.upright.stl
-  * [bases](https://www.thingiverse.com/thing:2740279)
-  
-We have not yet published OpenForge 2.0 versions of windows and arrow slits, but OpenForge 1.0 versions are available
-
-* [Arrow Slits](https://www.thingiverse.com/thing:563090)
-* [Window](https://www.thingiverse.com/thing:1407240) (Not my design, and only comes in 1x1)
 
 ## Tudor
 
