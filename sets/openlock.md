@@ -63,6 +63,7 @@ There is not currently a 7.2 openlock set, but there is a 6.0 openlock set, as w
 * Windows (not yet published)
 
 ## Dungeon Stone
+Dungeon stone is the first set that offers magnets in the walls as an option.  Every file published under Dungeon Stone has an option of printing the file as .triplex or .openforge.  If you print the .openforge files, they will be 6mm shorter, and can take an appropriate base that is included in their set.
 
 * [Primary Walls](https://www.thingiverse.com/thing:2787903) (A, BA, G, IA, Q, columns)
 * [Primary Floors](https://www.thingiverse.com/thing:2787905) (AS, E, EA, F, I, R, S, SA, SB, U)
