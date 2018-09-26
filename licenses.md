@@ -1,11 +1,14 @@
-=How Do OpenForge Licenses Work=
+How Do OpenForge Licenses Work
+==============================
 
-==Free to use and sell==
+Free to use and sell
+--------------------
 We very consiously choose the licenses on the files we release.  OpenForge licenses, and exceptions to them for patrons apply to any thingiverse entries under [devonjones](https://www.thingiverse.com/devonjones/designs) with "OpenForge" or "OpenLOCK" in the title, and any Thingiverse entries under [ecaroth](https://www.thingiverse.com/ecaroth/designs) with "OpenForge" in the title.  We mark what can and can't be sold by the licence on Thingiverse. There are currently two groupings of files.
 
 All of [Cut-Stone](https://www.thingiverse.com/devonjones/collections/openforge-2-cut-stone-series), [Dungeon Stone](https://www.thingiverse.com/devonjones/collections/openforge-2-dungeon-stone-series), [Rough/Ruined Stone](https://www.thingiverse.com/devonjones/collections/openforge-2-rough-and-ruined-stone-series) and [Tudor](https://www.thingiverse.com/devonjones/collections/openforge-2-tudor-series) are under the CC-BY-SA, which only means that you need to attribute us, and if you modify the designs you would need to release them under the CC-BY-SA. All future releases for these sets will also be under the CC-BY-SA.  Some of our scatter is also under the CC-BY-SA.
 
-==Free to use==
+Free to use
+-----------
 Second, we have some newer sets - [Dwarven Halls](https://www.thingiverse.com/devonjones/collections/openforge-2-dwarven-halls), the forthcoming cavern set, and newer scatter that are under the CC-BY-SA-NC. Those you cannot sell unless you sign up on patreon as a Merchanit Tier ($10/month) supporter. Then you will gain the right to ignore the NC and SA parts of the license.
 
 From the merchant tier:
