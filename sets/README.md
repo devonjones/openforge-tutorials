@@ -10,6 +10,9 @@ All of our set suggestions below are based on the preference for Magnets + OpenL
 
 Disclosure: I am using Amazon affiliate links here, but I won't link to anything I don't use, and I won't link to a product in Amazon that is inferior to one I know of elsewhere. 
 
+## Licenses
+There is a seperate page for explaining how our [licenses](../licenses.md) work.
+
 ## Materials and Tools
 ### Materials
 #### Filament
