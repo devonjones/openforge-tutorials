@@ -15,3 +15,6 @@
 * [Options](options.md)
 -->
 
+## Other
+
+* [Licenses](licenses.md)
