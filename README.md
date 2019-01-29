@@ -17,4 +17,4 @@
 
 ## Other
 
-* [Licenses](licenses.md)
+* [Licenses](license.md)
