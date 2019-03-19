@@ -6,7 +6,23 @@ I think in general it's a good idea to have one set that you have a ton of tiles
 
 There is no need to stick to OpenForge for all your tiles.  The bases we produce can work with basically any other project's tiles. You just need to cut off 6mm from the base of any other  tile system, something that most slicers can do, but can also easily be done in blender with a cube and a boolean difference.  Select a connection system, and go with that universally. I love doing openlock + magnetic. Magnets make life way easier when you are quickly building a map at the table. Openlock makes it much easier to build rooms ahead of time that you don't have to worry about getting knocked apart. The combination is great. You'll also want to choose a square size, which is a bit more complicated. OpenForge internal tiles and dwarven forge are based on 25mm squares. Printable Scenery, Dragonlock  and Hirstarts are based on 1" squares. To make the 25mm tiles the 1" scale, scale them up to 101.6%. To do the reverse, scale 1" tiles down to 98.4%. however, the OpenForge bases are already the right size. DO NOT SCALE THEM, as it will break the openlock connectors.  We have not started altering the file names, but in the future, the file names will contain the square basis so that it's super easy from the outset to understand what scale things are in.
 
-All of our set suggestions below are based on the preference for Magnets + OpenLOCK.  You can always swap in what base you prefer. Some people prefer to use our plain bases that have no texture on them so that all the tiles line up perfectly.  Some people prefer the bases to carry the texture of the tile all the way through.  The bases have a broad variety including magnet, openlock, magnetic + openlock, openlock triplex, plain, and any other base you want to imagine.
+All of our set suggestions below are based on the preference for Magnets + OpenLOCK.  You can always swap in what base you prefer. Some people prefer to use our plain bases that have no texture on them so that all the tiles line up perfectly.  Some people prefer the bases to carry the texture of the tile all the way through.  The bases have a broad variety including magnet, openlock, magnetic + openlock, openlock triplex, infinitylock, infinitylock + magnetic, dragonbite and dragonbite + magnetic.
+
+## Clip Systems
+### Glossary
+* Edges: The midpoint of the side of a square on a tile that is along the border of a tile.
+* Vertices: The border between squares on a tile that is along the border of a tile.
+
+* magnetic - has holes for 5mm magnets on edges
+* openlock - has openlock clip holes at vertices
+* magnetic.openlock - has openlock clip holes at vertices and holes for 5mm magnets on edges
+* triplex - has openlock clip holes at edges and vertices
+* infinitylock - has infinitylock clip holes at edges and vertices
+* magnetic.infinitylock - has infinitylock clip holes at vertices and holes for 5mm magnets at edges
+* dragonlock - has dragonbite clip holes at vertices
+* magnetic.dragonlock - has dragonbite clip holes at vertices and holes for 5mm magnets at edges 
+
+Note: dragonlock currently mostly supports tiles that are divisible by 2. eg. 2x2, 2x4, not 2x3 or 3x3.
 
 Disclosure: I am using Amazon affiliate links here, but I won't link to anything I don't use, and I won't link to a product in Amazon that is inferior to one I know of elsewhere. 
 
