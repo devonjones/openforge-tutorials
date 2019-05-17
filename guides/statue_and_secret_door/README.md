@@ -10,10 +10,11 @@ You need the following:
 * Games Workshop Washes
   * [Agrax Earthshade](https://amzn.to/2LSxTUD)
 
-
 First, prime in black
 
 ![Black](2019-05-17_07.57.55.jpg)
+
+Next, paint the wall using the dungeon stone scheme, which is based on [Dwarven Forge](https://shop.dwarvenforge.com/pages/painting-dungeon-game-tiles)
 
 Then paint in Neutral Grey.  Don't try to get it in all the crevices.
 
