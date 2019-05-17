@@ -32,4 +32,5 @@
   * Shows how to transfer laser printed images to flat surfaces on tiles
 * [Tamoachan Statue and Secret Door](statue_and_secret_door/README.md)
   * New paint scheme for stone
+
 [Up](../README.md)
