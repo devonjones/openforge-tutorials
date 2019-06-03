@@ -2,6 +2,7 @@
 
 * [Guides](guides/README.md)
 * [Tools, Supplies and Introduction](sets/README.md)
+* [Paints for Miniatures](sets/paints.md)
 
 ## Sets
 
