@@ -6,7 +6,7 @@ This essay is intended to cover paints for miniature painting.  I do not cover t
 
 Here's your prices (All taken from miniature market's "Retail Price" except warcolours since they are only sold through their website):
 
-* Warcolours: 15ml dropper for 1.95€ ~ $2.19 ($0.15/ml)
+* Warcolours: 15ml dropper for 1.95€ &#126; $2.19 ($0.15/ml)
 * Army Painter Paint: 18ml dropper bottle for $2.99 ($0.17/ml)
 * Vallejo Paint: 17ml dropper bottle for $3.29 ($0.19/ml)
 * Reaper MSP: 1/2 oz (15 ml) for $3.29 ($0.22/ml)
@@ -35,7 +35,7 @@ Finally, metallics are an exception to all of the review below.  Check the metal
 * Container: 15ml Dropper
 * Cost per ml: $0.15
 * Personal level of experience: High
-* Purchase starting place: Go with a [single color layer paint set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=65) (7 paints for 14.95€ ~= $16.79) to try them out, or get their [full layer paint set]() (92 paints for 164.95€ =~ $185.30)
+* Purchase starting place: Go with a [single color layer paint set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=65) (7 paints for 14.95€ &#126;= $16.79) to try them out, or get their [full layer paint set]() (92 paints for 164.95€ &#126;= $185.30)
 * Finish: Matte
 
 Warcolours are a cheaper alternative to Scale 75 and mostly functions the same way.  They come in 5 color sets from the darkest to the brightest for the color (say like red).  I love my warcolours, but like Scale 75, they are not a good place to start.  Warcolours have a gel medium, which makes them surpurb for wet blending.  They have a high pigment density, so they can be thinned easily to make glazes.  If you thin them a bit less, they can do very well as layer paints.  Unless you are wet blending, they *will* need to be thinned, which is what makes them less appropriate for beginner painters.
@@ -74,7 +74,7 @@ Finally, as a personal point of irritation, I hear the name of these paints regu
 * Purchase starting place: [Learn To Paint Kit: Core Skills](https://amzn.to/2IeODAu) or [Learn To Paint Kit: Layer Up](https://amzn.to/2Ie86RP) (11 paints, 2 brushes, 3 miniatures) to get a sample of how they work, [Master Series Paint Bones Colors Full Set](https://amzn.to/2KoEBiX) (54 paints for $126.54) to get a larger range, or [Reaper Master Series Paint Set 1](https://amzn.to/2IeEZxR) (108 paints for $264.95) to get a significant range.
 * Finish: Matte/Satin
 
-Reaper is one of my favorites specifically for layering.  The master series sells paints in triads, which is a shadow, midtone and highlight intended for some purpose.  They sell skin triads, wood triads, verdigris triads, etc.  Reaper has a pigment count similar to vallejo.  Reaper comes pre thinned.  It's formulation has a fair amount of flow improver in it, so they are superb for layering, and thin well for glazing, but can be harder to use for wet blending.  That being said, they generally still work just fine for wet blending.  The amount of flow improver in them also makes them fairly well suited to airbrushes (though you should still add more flow improver).
+Reaper is one of my favorites specifically for layering.  The master series sells paints in triads, which is a shadow, midtone and highlight intended for some purpose.  They sell skin triads, wood triads, verdigris triads, etc.  Reaper has a pigment density similar to vallejo.  Reaper comes pre thinned.  It's formulation has a fair amount of flow improver in it, so they are superb for layering, and thin well for glazing, but can be harder to use for wet blending.  That being said, they generally still work just fine for wet blending.  The amount of flow improver in them also makes them fairly well suited to airbrushes (though you should still add more flow improver).
 
 I personally think Reaper paints are the most comparable to Vallejo.  Like Vallejo they are a good backbone for your paint collection.  The triad concept is super useful for newer painters, but I still use the triads almost every time I paint because they help make some decisions just easier.
 
@@ -109,7 +109,7 @@ Scale 75 is great paint, but it's one of the hardest to use, due to using a diff
 * Purchase starting place: [Citadel Base Paint Set](https://amzn.to/2IkBaqD) (11 paints, 1 brush for $40.08) to try them out. For a few more paints, you can get the [Citadel Layer Paint Set](https://amzn.to/2KpxNBB) (20 paints, 1 brush for $66.56)
 * Finish: Satin
 
-Citadel has significant drawbacks. First it comes in paint pots, which means you will waste or ruin more paint from drying out than brands that come in dropper bottles. Second, per ounce it's one of the most expensive paints on the market. Third, citadel has one of the lowest pigment counts of any of the major miniature paint brands.  This means when you thin it, it will break faster than other paints.  It also means that it is more likely to go on gloppy.
+Citadel has significant drawbacks. First it comes in paint pots, which means you will waste or ruin more paint from drying out than brands that come in dropper bottles. Second, per ounce it's one of the most expensive paints on the market. Third, citadel has one of the lowest pigment densities of any of the major miniature paint brands.  This means when you thin it, it will break faster than other paints.  It also means that it is more likely to go on gloppy.
 
 ## Other paint lines
 
