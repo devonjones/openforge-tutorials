@@ -70,7 +70,7 @@ References:
 
 ## Army Painter
 
-![Paint: Army Painter](images/paint-army_painter.jpg){:width="200px"}
+![Paint: Army Painter](images/paint-army_painter.jpg)
 
 * Pigment Density: Low
 * Container: 18ml Dropper
@@ -80,6 +80,8 @@ References:
 * Finish: Satin
 
 Army Painter is a good alternative to citadel.  They are very similar paints with a similar composition, but are WAY cheaper.  They are be good for layering, but like citadel will be hard to glaze with.
+
+Like Vallejo and Warcolours, Army Painter does not sell a line of miniatures, they sell paint and painting accessories.  This is nice because it limits the degree to which they are beholden to the needs of their miniature lines.  They do however have D&D and CMON licenses.
 
 ## Citadel
 
@@ -169,6 +171,8 @@ Finally, as a personal point of irritation, I hear the name of these paints regu
 * Finish: Matte
 
 Warcolours are a cheaper alternative to Scale 75 and mostly functions the same way.  They come in 5 color sets from the darkest to the brightest for the color (say like red).  I love my warcolours, but like Scale 75, they are not a good place to start.  Warcolours have a gel medium, which makes them surpurb for wet blending.  They have a high pigment density, so they can be thinned easily to make glazes.  If you thin them a bit less, they can do very well as layer paints.  Unless you are wet blending, they *will* need to be thinned, which is what makes them less appropriate for beginner painters.
+
+Like Army Painter and Vallejo, Warcolours does not sell a line of miniatures, they sell paint and painting accessories.  This is nice because it limits the degree to which they are beholden to the needs of their miniature lines.  It also means that Warcolours paints don't happen to have evocative names, which is kind of refreshing.
 
 References:
 
