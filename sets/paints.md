@@ -8,6 +8,7 @@ Table of Contents
       * [Citadel](#citadel)
       * [Formula P3](#formula-p3)
       * [Reaper Master Series](#reaper-master-series)
+      * [Reaper MSP HD](#reaper-msp-hd)
       * [Scale 75 Fantasy and Games](#scale-75-fantasy-and-games)
       * [Vallejo Game Color](#vallejo-game-color)
       * [Warcolours](#warcolours)
@@ -29,6 +30,9 @@ Table of Contents
       * [Vallejo Model Wash](#vallejo-model-wash)
       * [Warcolours Shades](#warcolours-shades)
       * [Other Wash lines](#other-wash-lines)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 
 # Miniature Painting Paint Selection
 
@@ -123,6 +127,18 @@ I don't actually have experience with P3.  It is well considered by many other p
 Reaper is one of my favorites specifically for layering.  The master series sells paints in triads, which is a shadow, midtone and highlight intended for some purpose.  They sell skin triads, wood triads, verdigris triads, etc.  Reaper has a pigment density similar to vallejo.  Reaper comes pre thinned.  It's formulation has a fair amount of flow improver in it, so they are superb for layering, and thin well for glazing, and work great for wet blending.   However, they can be a bit harder to feather and dry brush with.
 
 I personally think Reaper paints are the most comparable to Vallejo.  Like Vallejo they are a good backbone for your paint collection.  The triad concept is super useful for newer painters, but I still use the triads almost every time I paint because they help make some decisions just easier.
+
+## Reaper MSP HD
+
+![Reaper Master Series HD](images/paint-reaper_master_series_hd.jpg)
+
+* Pigment Density: High
+* Container: 15ml Dropper
+* Cost per ml: $0.22/ml ($3.29 per dropper bottle)
+* Personal level of experience: Medium
+* Finish: Matte/Satin
+
+The Reaper HD line uses a higher density pigment, and a different medium than the rest of the master series paints.  This line has been discontinued, and ceased production in 2018.  You can still find them, but they are no longer being bottled.
 
 ## Scale 75 Fantasy and Games
 
