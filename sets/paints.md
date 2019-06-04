@@ -153,7 +153,7 @@ Those 6 are probably all the metal colors you'll ever need. They are more expens
 
 A secondary recommendation is to look at the badger [metalsmith](https://usaairbrushsupply.com/t/badger-metalsmith) line (They are unfortunatly a little hard to find).  I wouldn't focus on the whole system, but the ores they offer (Gold Ore, Bronze Copper Ore, Carbon Iron Ore, Blue Ore, Red Ore) can be mixed into VMC to tint them.  The same can be said for nearly any line of inks, along with the [Badger Minitare Ghost Tints](https://amzn.to/2W6Pp7u).  Using either mixed in tints like this, or glazing over the top of VMC, you can achieve any of the colored metallics.  Be sure to first learn how to do this over the silvery VMC colors before you try at all over gold or copper.
 
-## References
+References:
 
 * [Miniac: What to Thin Metallics With?](https://www.youtube.com/watch?v=_OGFJst94Lw)
 * [Miniac: What's the Best Undercoat for Metal?](https://www.youtube.com/watch?v=Iaca4TlvuC8)
@@ -200,6 +200,8 @@ These are good washes, and frankly great for their price.  Oddly my only real co
 * Purchase: There is no set sold of these, but you can find them individually.  For example here is [Dark Tone](https://amzn.to/2MrFF88) for $23.96
 
 Army Painter Quickshades are a fairly unique product for miniature painting.  They are fairly close in formulation to something like a Minwax wood finish.  They come in three colors: Soft Tone, Strong Tone and Dark Tone.  Dark Tone is a black wash, Strong Tone is a brown wash and Soft Tone is a Sepia Wash (or close to it).  These are intended for super fast army painting, and are a pretty heavy hammer to be hitting with.  They leave a thick gloss coat on your minis, which can be handy for protection, but honestly doesn't look awesome. That can be mitigated through matte varnishes, but still, it leaves the miniature kind of chunky.  This stuff takes about a day to fully dry.  If you plan on using it, expect to have the wash be the last step of your paint job.  I do not recommend these.  Don't confuse these with their line of Army Painter Quickshade Washes, which are quite good.
+
+References:
 
 * [Miniwargaming Jay: Miniature Painting 101: Part 40 - Dips](https://www.youtube.com/watch?v=QbnqzB89CzY)
 * [Sorastro's Zombicide: Black Plague Painting Guide Ep.1 - The Zombies](https://www.youtube.com/watch?v=LMOTmOchKyQ)
@@ -256,6 +258,8 @@ References:
 Overall I've heard good stuff about these.  My impression is that one of the differences between older washes and the newer generation that seem to be substantially more useful is the transition to inks for the pigment.  The Green Stuff World Washes use ink.
 
 Greenstuff world inks have black, red, blue, flesh, purple, green earth (brown) and sepia.  This is a pretty standard line up.
+
+References:
 
 * [Vince Venturella: Product Review 32 - Green Stuff World Wash](https://www.youtube.com/watch?v=iVzt6ZN-LAQ)
 
