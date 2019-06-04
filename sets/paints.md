@@ -38,7 +38,7 @@ This essay is intended to cover paints for miniature painting.  I do not cover t
 
 Here's your prices (All taken from miniature market's "Retail Price" except warcolours since they are only sold through their website):
 
-* Warcolours: 15ml dropper for 1.95€ &#126; $2.19 ($0.15/ml)
+* Warcolours: 15ml dropper for 1.95â‚¬ &#126; $2.19 ($0.15/ml)
 * Army Painter Paint: 18ml dropper bottle for $2.99 ($0.17/ml)
 * Vallejo Paint: 17ml dropper bottle for $3.29 ($0.19/ml)
 * Reaper MSP: 1/2 oz (15 ml) for $3.29 ($0.22/ml)
@@ -70,7 +70,7 @@ References:
 
 ## Army Painter
 
-![Paint: Army Painter](images/paint-army_painter.jpg)
+![Paint: Army Painter](images/paint-army_painter.jpg|width=200)
 
 * Pigment Density: Low
 * Container: 18ml Dropper
@@ -163,9 +163,9 @@ Finally, as a personal point of irritation, I hear the name of these paints regu
 
 * Pigment Density: High
 * Container: 15ml Dropper
-* Cost per ml: $0.15/ml (1.95€ per dropper bottle)
+* Cost per ml: $0.15/ml (1.95â‚¬ per dropper bottle)
 * Personal level of experience: High
-* Purchase starting place: Go with a [single color layer paint set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=65) (7 paints for 14.95€ &#126;= $16.79) to try them out, or get their [full layer paint set]() (92 paints for 164.95€ &#126;= $185.30)
+* Purchase starting place: Go with a [single color layer paint set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=65) (7 paints for 14.95â‚¬ &#126;= $16.79) to try them out, or get their [full layer paint set]() (92 paints for 164.95â‚¬ &#126;= $185.30)
 * Finish: Matte
 
 Warcolours are a cheaper alternative to Scale 75 and mostly functions the same way.  They come in 5 color sets from the darkest to the brightest for the color (say like red).  I love my warcolours, but like Scale 75, they are not a good place to start.  Warcolours have a gel medium, which makes them surpurb for wet blending.  They have a high pigment density, so they can be thinned easily to make glazes.  If you thin them a bit less, they can do very well as layer paints.  Unless you are wet blending, they *will* need to be thinned, which is what makes them less appropriate for beginner painters.
@@ -181,7 +181,7 @@ There are a number of other paint lines.  As I learn about them, I'll add them h
 
 * AK Interactive Acrylics
 * Badger Minitaire
-* Coat d’Arms
+* Coat dâ€™Arms
 * Reaper High Density
 * Citadel Base
 * Secret Weapon Miniatures
@@ -304,10 +304,10 @@ The gloss washes are a fairly new product.  They are supposed to flow better, an
 ![Green Stuff World Wash](images/wash-green_stuff_world.jpg)
 
 * Container: 17ml Dropper
-* Cost per ml: $0.18/ml (2.69€ &#126; $3.03 per dropper)
+* Cost per ml: $0.18/ml (2.69â‚¬ &#126; $3.03 per dropper)
 * Personal level of experience: None
 * Washes in product line: 8
-* Purchase: [Set x8 Acrylic Wash Ink Paints](http://www.greenstuffworld.com/en/acrylic-inks/781-set-x8-acrylic-wash-ink-paints.html) (8 washes for 21.25€ &#126; $23.92)
+* Purchase: [Set x8 Acrylic Wash Ink Paints](http://www.greenstuffworld.com/en/acrylic-inks/781-set-x8-acrylic-wash-ink-paints.html) (8 washes for 21.25â‚¬ &#126; $23.92)
 
 Overall I've heard good stuff about these.  My impression is that one of the differences between older washes and the newer generation that seem to be substantially more useful is the transition to inks for the pigment.  The Green Stuff World Washes use ink.
 
@@ -394,10 +394,10 @@ References:
 ![Warcolours Shades](images/wash-warcolours_shade.jpg)
 
 * Container: 15ml Dropper
-* Cost per ml: $0.19/ml (2.50€ &#126; $2.81 per dropper)
+* Cost per ml: $0.19/ml (2.50â‚¬ &#126; $2.81 per dropper)
 * Personal level of experience: Low
 * Washes in product line: 7
-* Purchase: [Warclours Shade Set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=150) (7 shades for 17.45€ &#126; $19.62)
+* Purchase: [Warclours Shade Set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=150) (7 shades for 17.45â‚¬ &#126; $19.62)
 
 These are very matte, but also fairly thick shades.  They might work like other shades if thinned, but in their out of the bottle consistency, these can't be used like traditional shades.  I think these are probably better off used as a glaze than like a wash.  As I get more experience with them, I'll circle back and reevalate them.
 
