@@ -238,7 +238,7 @@ References:
 
 ## Vallejo Liquid Gold
 
-![Vallejo Liquid Gold](images/metallics-vallejo_model_color_liquid_gold.jpg)
+![Vallejo Liquid Gold](images/metallic-vallejo_model_color_liquid_gold.jpg)
 
 References:
 
@@ -337,7 +337,7 @@ References:
 
 ## Reaper Master Series Washes
 
-![Reaper Master Series Wash](wash-reaper_master_series_wash.jpg)
+![Reaper Master Series Wash](images/wash-reaper_master_series_wash.jpg)
 
 * Container: 15ml Dropper
 * Cost per ml: $0.22/ml ($3.29 per dropper)
@@ -361,7 +361,7 @@ o
 
 ## Vallejo Game Color Washes
 
-#![Vallejo Game Color Wash](images/vallejo_game_color_wash.jpg)
+![Vallejo Game Color Wash](images/wash-vallejo_game_color_wash.jpg)
 
 * Container: 18ml Dropper
 * Cost per ml: $0.19/ml ($3.29 per dropper)
