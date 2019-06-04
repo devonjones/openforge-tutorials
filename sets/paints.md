@@ -234,7 +234,20 @@ References:
 
 ## Badger Metalsmith
 
-A secondary recommendation is to look at the badger [metalsmith](https://usaairbrushsupply.com/t/badger-metalsmith) line (They are unfortunatly a little hard to find).  I wouldn't focus on the whole system, but the ores they offer (Gold Ore, Bronze Copper Ore, Carbon Iron Ore, Blue Ore, Red Ore) can be mixed into VMC to tint them.  The same can be said for nearly any line of inks, along with the [Badger Minitare Ghost Tints](https://amzn.to/2W6Pp7u).  Using either mixed in tints like this, or glazing over the top of VMC, you can achieve any of the colored metallics.  Be sure to first learn how to do this over the silvery VMC colors before you try at all over gold or copper.
+* Pigment Density: High
+* Container: 30ml Dropper
+* Cost per ml: $0.08/ml ($2.50 dropper bottle)
+* Personal level of experience: None
+* Finish: Metallic with a bright shine
+* Purchase: [Full Metalsmith Set](https://usaairbrushsupply.com/products/1319-bmsk-basic-metalsmith-kit-1oz-30ml) (2 paints, 3 aging bases and 5 "ores" for $26.40) or you can buy the ores individaully
+
+This is a real interesting paint system.  They have a single base paint, it's silver.  Ther are three aging bases that darken the metal and 5 ores that are tints you can add to make the metal into gold, copper, bronze or colored metals.  The ideas is that you can create paint formulas for a specific mmetal you want to achieve.
+
+The metal paint itself is decent, but not in the same league as Vallejo Metal Color.  However, the ores oars of great use.  They offer Gold Ore, Bronze Ore, Copper Ore, Carbon Iron Ore, Blue Ore and Red Ore, and these can either be be mixed into Vallejo Metal Ccolor to tint it, or glazed on top of it.
+
+The same can be said for nearly any line of inks, along with the [Badger Minitare Ghost Tints](https://amzn.to/2W6Pp7u).  Using either mixed in tints like this, or glazing over the top of VMC, you can achieve any of the colored metallics.  Be sure to first learn how to do this over the silvery VMC colors before you try at all over gold or copper.
+
+Given how cheap the ores are (8 cents per ml, wow!), these are an easy buy to justify.
 
 References:
 
@@ -244,6 +257,15 @@ References:
 
 ![Vallejo Liquid Gold](images/metallic-vallejo_model_color_liquid_gold.jpg)
 
+* Pigment Density: Very High
+* Container: 35ml Pot
+* Cost per ml: $0.23/ml ($7.99 dropper bottle)
+* Personal level of experience: None
+* Finish: Metallic with a bright shine
+* Purchase: [Vallejo Liquid Metallics Set](https://amzn.to/2KzL7nd) (4 paints fir $17.20)
+
+I have not used these, but these are alchohol paints.  They require that you use Isopropyl Alcohol to thin them, and they dry out super fast.  They will trash brushes, so don't use good brushes with them (frankly don't use good sable brushes with any metallics).  The pigment and the binder will seperate, so you have to shake them with every use, and if you don't store them properly, the pigment and binder will seperate in a way you can't fix.  All that being said, the results from these paints is supposed to be astonishing.  They produce a shine akin to real metal that you just can't get from scrylic paints.
+
 References:
 
 * [Vince Venturella: Produce Review 04 - Vallejo Liquid Gold](https://www.youtube.com/watch?v=K-ePHYeIKlI)
@@ -251,6 +273,7 @@ References:
 ## Other Metal Paints
 
 * Every paint line under paints
+* Darkstar molden metals
 
 # Washes
 
