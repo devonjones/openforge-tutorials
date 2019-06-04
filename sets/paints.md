@@ -1,3 +1,31 @@
+Table of Contents
+=================
+
+   * [Miniature Painting Paint Selection](#miniature-painting-paint-selection)
+      * [Prices](#prices)
+   * [Paints](#paints)
+      * [Army Painter](#army-painter)
+      * [Citadel](#citadel)
+      * [P3](#p3)
+      * [Reaper Master Series](#reaper-master-series)
+      * [Scale 75](#scale-75)
+      * [Vallejo](#vallejo)
+      * [Warcolours](#warcolours)
+      * [Other paint lines](#other-paint-lines)
+   * [Metallics](#metallics)
+   * [Washes](#washes)
+      * [Army Painter Quickshade](#army-painter-quickshade)
+      * [Army Painter Quickshade Washes](#army-painter-quickshade-washes)
+      * [Citadel Shades](#citadel-shades)
+      * [Green Stuff World Washes](#green-stuff-world-washes)
+      * [Oil Washes](#oil-washes)
+      * [Reaper Washes](#reaper-washes)
+      * [Tamiya Panel Line Accent Colors](#tamiya-panel-line-accent-colors)
+      * [Vallejo Game Color Washes](#vallejo-game-color-washes)
+      * [Vallejo Model Wash](#vallejo-model-wash)
+      * [Warcolours Shades](#warcolours-shades)
+      * [Other Wash lines](#other-wash-lines)
+
 # Miniature Painting Paint Selection
 
 This essay is intended to cover paints for miniature painting.  I do not cover the use of craft paints for this purpose, but I will add a section in the future to cover why it is best to stay away from craft paints for this application.  I personally use a ton of craft paint, mostly for painting 3d printed terrain, so it's not a distain for craft paints, they are a useful tool in the crafter's arsenel, but they also have specific applications where they are better, and applications where they are suboptimal.  For painting miniatures, craft paints have significant drawbacks.
@@ -35,23 +63,10 @@ References:
 * [Miniac: BEST Beginner Paint Set?!](https://www.youtube.com/watch?v=jrJ1Yb2QI1g)
 * [Vince Venturella: Hobby Cheating 80 - Miniature Paint Brand Guide](https://www.youtube.com/watch?v=et6VmcFJpXU)
 
-## Warcolours
-
-* Pigment Density: High
-* Container: 15ml Dropper
-* Cost per ml: $0.15/ml (1.95€ per dropper bottle)
-* Personal level of experience: High
-* Purchase starting place: Go with a [single color layer paint set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=65) (7 paints for 14.95€ &#126;= $16.79) to try them out, or get their [full layer paint set]() (92 paints for 164.95€ &#126;= $185.30)
-* Finish: Matte
-
-Warcolours are a cheaper alternative to Scale 75 and mostly functions the same way.  They come in 5 color sets from the darkest to the brightest for the color (say like red).  I love my warcolours, but like Scale 75, they are not a good place to start.  Warcolours have a gel medium, which makes them surpurb for wet blending.  They have a high pigment density, so they can be thinned easily to make glazes.  If you thin them a bit less, they can do very well as layer paints.  Unless you are wet blending, they *will* need to be thinned, which is what makes them less appropriate for beginner painters.
-
-References:
-
-* [Vince Venturella: Product Review 15 - Warcolours Matte Paint Set](https://www.youtube.com/watch?v=-p0e_YHuTgI)
-* [Vince Venturella: Hobby Cheating 86 - How to Paint with Warcolours](https://www.youtube.com/watch?v=e-ICWnMpnAw)
 
 ## Army Painter
+
+![Army Painter Paint](images/paint-army_painter.png)
 
 * Pigment Density: Low
 * Container: 18ml Dropper
@@ -62,18 +77,27 @@ References:
 
 Army Painter is a good alternative to citadel.  They are very similar paints with a similar composition, but are WAY cheaper.  They are be good for layering, but like citadel will be hard to glaze with.
 
-## Vallejo
+## Citadel
 
-* Pigment Density: Medium
-* Container: 17ml Dropper
-* Cost per ml: $0.19/ml ($3.29 per dropper bottle)
-* Personal level of experience: Medium
-* Purchase starting place: [Game Color Intro Set](https://amzn.to/2IgMPH9) (16 paints for $39.40) or the [Game Color Basic Paint Set](https://amzn.to/2Wmcbxg) (72 paints, 3 brushes for $216.88)
+* Pigment Density: Low
+* Container: 12ml Paint Pot
+* Cost per ml: $0.38/ml ($4.55 per paint pot)
+* Personal level of experience: Low
+* Purchase starting place: [Citadel Base Paint Set](https://amzn.to/2IkBaqD) (11 paints, 1 brush for $40.08) to try them out. For a few more paints, you can get the [Citadel Layer Paint Set](https://amzn.to/2KpxNBB) (20 paints, 1 brush for $66.56)
 * Finish: Satin
 
-Vallejo is probably the most expansive line.  They have tons of great colors, and their paints have a good amount of pigment, so you can still get into the advanced techniques with them.  Vallejo sells multiple lines designed for different audiences, such as model color and mecha color.  There's no material difference in the game color, model color and mecha color lines as far as the paint formulation, so you can use them interchangeably.  Game color gives a broad range of colors, both saturated and unsaturated.  It is probably the most flexible of the lines. Model color focuses more on a huge panel desaturated of browns, greens and greys that fit in for say WWII vehicles.  Mecha color is focused on highly saturated primary colors to fit with the anime mecha asthetic.  Vallejo paints are fantastic layer paints.  They can be thined a great deal, so can be used as glazes and will also work well for wet blending.  Vallejo paints are basically a workhorse that make a great backbone of your paint collection.
+Citadel has significant drawbacks. First it comes in paint pots, which means you will waste or ruin more paint from drying out than brands that come in dropper bottles. Second, per ounce it's one of the most expensive paints on the market. Third, citadel has one of the lowest pigment densities of any of the major miniature paint brands.  This means when you thin it, it will break faster than other paints.  It also means that it is more likely to go on gloppy.
 
-Finally, as a personal point of irritation, I hear the name of these paints regularly abused.  Vallejo is a spanish company, so the proper pronunciation is not *"Va-Leh-ho"*, it is *"Vah-YEH-ho"*.  This is similar to how tortilla is pronounced. 
+## P3
+
+* Pigment Density: ?
+* Container: 18ml Paint Pot
+* Cost per ml: $0.22/ml ($4 per paint pot)
+* Personal level of experience: None
+* Purchase starting place: P3 has numerous sets, but the sets are all designed around factions from the Warmachine/Hordes miniatures wargame.  No single set is good for a beginner painter, but if you play the game, they can give you much of what you need to paint a faction.
+* Finish: Satin
+
+I don't actually have experience with P3.  It is well considered by many other painters.  They tout that they use liquid pigment, which makes it harder for their paint to break, but I have no idea how effective this is.  P3 does come in paint pots, which I personally do not like.  I would probably be more inclined to try them if they came in dropper bottles.
 
 ## Reaper Master Series
 
@@ -87,17 +111,6 @@ Finally, as a personal point of irritation, I hear the name of these paints regu
 Reaper is one of my favorites specifically for layering.  The master series sells paints in triads, which is a shadow, midtone and highlight intended for some purpose.  They sell skin triads, wood triads, verdigris triads, etc.  Reaper has a pigment density similar to vallejo.  Reaper comes pre thinned.  It's formulation has a fair amount of flow improver in it, so they are superb for layering, and thin well for glazing, but can be harder to use for wet blending.  That being said, they generally still work just fine for wet blending.  The amount of flow improver in them also makes them fairly well suited to airbrushes (though you should still add more flow improver).
 
 I personally think Reaper paints are the most comparable to Vallejo.  Like Vallejo they are a good backbone for your paint collection.  The triad concept is super useful for newer painters, but I still use the triads almost every time I paint because they help make some decisions just easier.
-
-## P3
-
-* Pigment Density: ?
-* Container: 18ml Paint Pot
-* Cost per ml: $0.22/ml ($4 per paint pot)
-* Personal level of experience: None
-* Purchase starting place: P3 has numerous sets, but the sets are all designed around factions from the Warmachine/Hordes miniatures wargame.  No single set is good for a beginner painter, but if you play the game, they can give you much of what you need to paint a faction.
-* Finish: Satin
-
-I don't actually have experience with P3.  It is well considered by many other painters.  They tout that they use liquid pigment, which makes it harder for their paint to break, but I have no idea how effective this is.  P3 does come in paint pots, which I personally do not like.  I would probably be more inclined to try them if they came in dropper bottles.
 
 ## Scale 75
 
@@ -115,16 +128,34 @@ References:
 * [Vince Venturella: Product Review 12 - Scale 75 Blue Paint Set](https://www.youtube.com/watch?v=iBglxdOvcGM)
 * [Vince Venturella: Product Review 14 - Scale 75 Flesh Paint Set](https://www.youtube.com/watch?v=HRRA0ZV72xs)
 
-## Citadel
+## Vallejo
 
-* Pigment Density: Low
-* Container: 12ml Paint Pot
-* Cost per ml: $0.38/ml ($4.55 per paint pot)
-* Personal level of experience: Low
-* Purchase starting place: [Citadel Base Paint Set](https://amzn.to/2IkBaqD) (11 paints, 1 brush for $40.08) to try them out. For a few more paints, you can get the [Citadel Layer Paint Set](https://amzn.to/2KpxNBB) (20 paints, 1 brush for $66.56)
+* Pigment Density: Medium
+* Container: 17ml Dropper
+* Cost per ml: $0.19/ml ($3.29 per dropper bottle)
+* Personal level of experience: Medium
+* Purchase starting place: [Game Color Intro Set](https://amzn.to/2IgMPH9) (16 paints for $39.40) or the [Game Color Basic Paint Set](https://amzn.to/2Wmcbxg) (72 paints, 3 brushes for $216.88)
 * Finish: Satin
 
-Citadel has significant drawbacks. First it comes in paint pots, which means you will waste or ruin more paint from drying out than brands that come in dropper bottles. Second, per ounce it's one of the most expensive paints on the market. Third, citadel has one of the lowest pigment densities of any of the major miniature paint brands.  This means when you thin it, it will break faster than other paints.  It also means that it is more likely to go on gloppy.
+Vallejo is probably the most expansive line.  They have tons of great colors, and their paints have a good amount of pigment, so you can still get into the advanced techniques with them.  Vallejo sells multiple lines designed for different audiences, such as model color and mecha color.  There's no material difference in the game color, model color and mecha color lines as far as the paint formulation, so you can use them interchangeably.  Game color gives a broad range of colors, both saturated and unsaturated.  It is probably the most flexible of the lines. Model color focuses more on a huge panel desaturated of browns, greens and greys that fit in for say WWII vehicles.  Mecha color is focused on highly saturated primary colors to fit with the anime mecha asthetic.  Vallejo paints are fantastic layer paints.  They can be thined a great deal, so can be used as glazes and will also work well for wet blending.  Vallejo paints are basically a workhorse that make a great backbone of your paint collection.
+
+Finally, as a personal point of irritation, I hear the name of these paints regularly abused.  Vallejo is a spanish company, so the proper pronunciation is not *"Va-Leh-ho"*, it is *"Vah-YEH-ho"*.  This is similar to how tortilla is pronounced. 
+
+## Warcolours
+
+* Pigment Density: High
+* Container: 15ml Dropper
+* Cost per ml: $0.15/ml (1.95€ per dropper bottle)
+* Personal level of experience: High
+* Purchase starting place: Go with a [single color layer paint set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=65) (7 paints for 14.95€ &#126;= $16.79) to try them out, or get their [full layer paint set]() (92 paints for 164.95€ &#126;= $185.30)
+* Finish: Matte
+
+Warcolours are a cheaper alternative to Scale 75 and mostly functions the same way.  They come in 5 color sets from the darkest to the brightest for the color (say like red).  I love my warcolours, but like Scale 75, they are not a good place to start.  Warcolours have a gel medium, which makes them surpurb for wet blending.  They have a high pigment density, so they can be thinned easily to make glazes.  If you thin them a bit less, they can do very well as layer paints.  Unless you are wet blending, they *will* need to be thinned, which is what makes them less appropriate for beginner painters.
+
+References:
+
+* [Vince Venturella: Product Review 15 - Warcolours Matte Paint Set](https://www.youtube.com/watch?v=-p0e_YHuTgI)
+* [Vince Venturella: Hobby Cheating 86 - How to Paint with Warcolours](https://www.youtube.com/watch?v=e-ICWnMpnAw)
 
 ## Other paint lines
 
@@ -169,28 +200,6 @@ References:
 
 # Washes
 
-## Reaper Washes
-
-* Container: 15ml Dropper
-* Cost per ml: $0.22/ml ($3.29 per dropper)
-* Personal level of experience: High
-* Washes in product line: 6
-* Purchase: [Reaper Master Series Triad Washes I](https://amzn.to/2EPYT1k) (3 bottles for $11.25) with Brown, Black and Flesh
-
-Reaper has a fairly limited line with Flesh, Brown, Black, Sepia, Stone and Steel.  That being said, they have the clearly very important ones of Flesh, Brown, Black and Sepia.  The Stone and Steel washes are fairly interesting, as there's nothing quite like them in other lines (Stone is a little similar to Vallejo's Grey Wash).  Steel wash is sort of a blue-grey and certainly has applications.  Reaper's washes get the job done.  I find them a step below the citadel washes, but it's only a minor step.  They are still plenty useful.  The primary probme here is that the wash range is really limited, so going with a set like that from Army painter or Vallejo is going to be a better experience just due to them having a much broader pallet.
-
-## Army Painter Quickshade Washes
-
-* Container: 18ml Dropper
-* Cost per ml: $0.18/ml ($3.25 per dropper bottle)
-* Personal level of experience: Medium
-* Washes in product line: 11
-* Purchase: [Army Painter Quickshade Washes Set](https://amzn.to/2MryqNM) (11 washes for $27.09)
-
-This line of washes should not be confused with the Army Painter Quickshade product line (vs these, Army Painter Quickshade Washes, confusing, I know). This line of washes are very very close in both colors and quality to the Citadel Shades line (With probably 7 of the 11 being direct comparisons).  There are 11 colors, three of which, Soft Tone, Strong Tone and Dark tone ade designed to match up with the Quickshade of the same name.  Thye also have Green Tone, Red Tone, Blue Tone, Purple Tone, Flesh Wash, Mid Brown, Light Tone and Military Shader.
-
-These are good washes, and frankly great for their price.  Oddly my only real complaint is that for washes, my preference reverses and I would prefer to get these in paint pots instead of droppers.  If you are on a budget, these are the go to for washes.  If you are not, you probably still want to have a set of these.
-
 ## Army Painter Quickshade
 
 * Container: 250ml Can
@@ -205,6 +214,18 @@ References:
 
 * [Miniwargaming Jay: Miniature Painting 101: Part 40 - Dips](https://www.youtube.com/watch?v=QbnqzB89CzY)
 * [Sorastro's Zombicide: Black Plague Painting Guide Ep.1 - The Zombies](https://www.youtube.com/watch?v=LMOTmOchKyQ)
+
+## Army Painter Quickshade Washes
+
+* Container: 18ml Dropper
+* Cost per ml: $0.18/ml ($3.25 per dropper bottle)
+* Personal level of experience: Medium
+* Washes in product line: 11
+* Purchase: [Army Painter Quickshade Washes Set](https://amzn.to/2MryqNM) (11 washes for $27.09)
+
+This line of washes should not be confused with the Army Painter Quickshade product line (vs these, Army Painter Quickshade Washes, confusing, I know). This line of washes are very very close in both colors and quality to the Citadel Shades line (With probably 7 of the 11 being direct comparisons).  There are 11 colors, three of which, Soft Tone, Strong Tone and Dark tone ade designed to match up with the Quickshade of the same name.  Thye also have Green Tone, Red Tone, Blue Tone, Purple Tone, Flesh Wash, Mid Brown, Light Tone and Military Shader.
+
+These are good washes, and frankly great for their price.  Oddly my only real complaint is that for washes, my preference reverses and I would prefer to get these in paint pots instead of droppers.  If you are on a budget, these are the go to for washes.  If you are not, you probably still want to have a set of these.
 
 ## Citadel Shades
 
@@ -221,6 +242,57 @@ The citadel line has the following colors: Nuln Oil (Black) (also in Gloss), Agr
 Given my paint pot hate above, it might seem strange that I prefer this line of washes above others.  Well, shades aren't paints, and if you are going to slop on some wash, it's nice to be able to wick off the excess back into the pot.  Wash pots also don't clog up like paint pots do.  However, what citadel wash orts are famos for is spilling.  If you use these, have a tool to keep the pot upright.  This can be as simple as adding some poster tack to the bottom of the bottle.  Trust me, they are super easy to knock over.
 
 The gloss washes are a fairly new product.  They are supposed to flow better, and work better for washing metals.  I have yet to try them, so I can't speak from experience here.
+
+## Green Stuff World Washes
+* Container: 17ml Dropper
+* Cost per ml: $0.18/ml (2.69€ &#126; $3.03 per dropper)
+* Personal level of experience: None
+* Washes in product line: 8
+* Purchase: [Set x8 Acrylic Wash Ink Paints](http://www.greenstuffworld.com/en/acrylic-inks/781-set-x8-acrylic-wash-ink-paints.html) (8 washes for 21.25€ &#126; $23.92)
+
+Overall I've heard good stuff about these.  My impression is that one of the differences between older washes and the newer generation that seem to be substantially more useful is the transition to inks for the pigment.  The Green Stuff World Washes use ink.
+
+Greenstuff world inks have black, red, blue, flesh, purple, green earth (brown) and sepia.  This is a pretty standard line up.
+
+References:
+
+* [Vince Venturella: Product Review 32 - Green Stuff World Wash](https://www.youtube.com/watch?v=iVzt6ZN-LAQ)
+
+## Oil Washes
+
+* Container: Any
+* Cost per ml: Any
+* Personl level of experience: Low
+
+This is more a class of products than any single product.  What you do is you get a traditional oil paint, and thin it using white spirits.  You can then paint this on, and it will find the crevices far better than any acrylic paint (Oil has very low surface tension, all acrylics are based on water at some level, which has a high surface tension).  You can contiue to adjust or even wipe off the oil wash, and can do so even for days if you re-wet it using white spirits.  If you do this, be srue to use a glss or satin varnish over any acrylic paints, as this *will* pull up the paint.
+
+References:
+
+* [Miniwargaming Jay: Miniature Painting 101 - Part 18: Oil Washes](https://www.youtube.com/watch?v=e6F7dhabn78)
+* [Paepercuts: How To Make Oil Washes For Your Miniatures](https://www.youtube.com/watch?v=7uxfqXql-gg)
+* [Plasmo: How to Use Washes Oil, Tamiya panel line accent color, Citadel - Great Guide Plastic Models](https://www.youtube.com/watch?v=FXerpuOthXk)
+* [Vince Venturella: Hobby Cheating 89 - How to Use Oil Washes](https://www.youtube.com/watch?v=oQmhcSRsiPo)
+* [Wargamers Consortium: Washes: Using Oil Washes](https://www.youtube.com/watch?v=A2JurVVWLzY)
+
+## Reaper Washes
+
+* Container: 15ml Dropper
+* Cost per ml: $0.22/ml ($3.29 per dropper)
+* Personal level of experience: High
+* Washes in product line: 6
+* Purchase: [Reaper Master Series Triad Washes I](https://amzn.to/2EPYT1k) (3 bottles for $11.25) with Brown, Black and Flesh
+
+Reaper has a fairly limited line with Flesh, Brown, Black, Sepia, Stone and Steel.  That being said, they have the clearly very important ones of Flesh, Brown, Black and Sepia.  The Stone and Steel washes are fairly interesting, as there's nothing quite like them in other lines (Stone is a little similar to Vallejo's Grey Wash).  Steel wash is sort of a blue-grey and certainly has applications.  Reaper's washes get the job done.  I find them a step below the citadel washes, but it's only a minor step.  They are still plenty useful.  The primary probme here is that the wash range is really limited, so going with a set like that from Army painter or Vallejo is going to be a better experience just due to them having a much broader pallet.
+
+## Tamiya Panel Line Accent Colors
+
+* Container: 40ml jar with paint brush in lid
+* Cost per ml: $0.23/ml (Around $9 per jar)
+* Personal level of experience: Low 
+* Washes in product line: 4
+
+These are a special product.  They are used specifically for doing panel lineing which is for draing a dark accent around the edges of say a metal panel.  They are of more use to people doing sci-fi figures than fantasy.  These are frankly magic.  You dip the included brush and then poke it in between some panels and it will pull itself along the length of that line.  If you plan on doing panel lining, these are a super asset.
+o
 
 ## Vallejo Game Color Washes
 
@@ -248,21 +320,6 @@ References:
 
 * [Vince Venturella: Hobby Cheating 56 - Black Lining](https://www.youtube.com/watch?v=kl5GnGCw6Co)
 
-## Green Stuff World Washes
-* Container: 17ml Dropper
-* Cost per ml: $0.18/ml (2.69€ &#126; $3.03 per dropper)
-* Personal level of experience: None
-* Washes in product line: 8
-* Purchase: [Set x8 Acrylic Wash Ink Paints](http://www.greenstuffworld.com/en/acrylic-inks/781-set-x8-acrylic-wash-ink-paints.html) (8 washes for 21.25€ &#126; $23.92)
-
-Overall I've heard good stuff about these.  My impression is that one of the differences between older washes and the newer generation that seem to be substantially more useful is the transition to inks for the pigment.  The Green Stuff World Washes use ink.
-
-Greenstuff world inks have black, red, blue, flesh, purple, green earth (brown) and sepia.  This is a pretty standard line up.
-
-References:
-
-* [Vince Venturella: Product Review 32 - Green Stuff World Wash](https://www.youtube.com/watch?v=iVzt6ZN-LAQ)
-
 ## Warcolours Shades
 
 * Container: 15ml Dropper
@@ -273,31 +330,10 @@ References:
 
 These are very matte, but also fairly thick shades.  They might work like other shades if thinned, but in their out of the bottle consistency, these can't be used like traditional shades.  I think these are probably better off used as a glaze than like a wash.  As I get more experience with them, I'll circle back and reevalate them.
 
-## Oil Washes
 
-* Container: Any
-* Cost per ml: Any
-* Personl level of experience: Low
+## Other Wash lines
 
-This is more a class of products than any single product.  What you do is you get a traditional oil paint, and thin it using white spirits.  You can then paint this on, and it will find the crevices far better than any acrylic paint (Oil has very low surface tension, all acrylics are based on water at some level, which has a high surface tension).  You can contiue to adjust or even wipe off the oil wash, and can do so even for days if you re-wet it using white spirits.  If you do this, be srue to use a glss or satin varnish over any acrylic paints, as this *will* pull up the paint.
-
-References:
-
-* [Miniwargaming Jay: Miniature Painting 101 - Part 18: Oil Washes](https://www.youtube.com/watch?v=e6F7dhabn78)
-* [Paepercuts: How To Make Oil Washes For Your Miniatures](https://www.youtube.com/watch?v=7uxfqXql-gg)
-* [Plasmo: How to Use Washes Oil, Tamiya panel line accent color, Citadel - Great Guide Plastic Models](https://www.youtube.com/watch?v=FXerpuOthXk)
-* [Vince Venturella: Hobby Cheating 89 - How to Use Oil Washes](https://www.youtube.com/watch?v=oQmhcSRsiPo)
-* [Wargamers Consortium: Washes: Using Oil Washes](https://www.youtube.com/watch?v=A2JurVVWLzY)
-
-## Tamiya Panel Line Accent Colors
-
-* Container: 40ml jar with paint brush in lid
-* Cost per ml: $0.23/ml (Around $9 per jar)
-* Personal level of experience: Low 
-* Washes in product line: 4
-
-These are a special product.  They are used specifically for doing panel lineing which is for draing a dark accent around the edges of say a metal panel.  They are of more use to people doing sci-fi figures than fantasy.  These are frankly magic.  You dip the included brush and then poke it in between some panels and it will pull itself along the length of that line.  If you plan on doing panel lining, these are a super asset.
-o
+There are plenty of other lines of washes.  I'll keep a list here as I find them, and expand on them when I have a chance to try them out.
 
 <!--
 # To Be Added
