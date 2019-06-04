@@ -6,20 +6,24 @@ Table of Contents
    * [Paints](#paints)
       * [Army Painter](#army-painter)
       * [Citadel](#citadel)
-      * [P3](#p3)
+      * [Formula P3](#formula-p3)
       * [Reaper Master Series](#reaper-master-series)
-      * [Scale 75](#scale-75)
-      * [Vallejo](#vallejo)
+      * [Scale 75 Fantasy and Games](#scale-75-fantasy-and-games)
+      * [Vallejo Game Color](#vallejo-game-color)
       * [Warcolours](#warcolours)
       * [Other paint lines](#other-paint-lines)
    * [Metallics](#metallics)
+      * [Vallejo Metal Color](#vallejo-metal-color)
+      * [Badger Metalsmith](#badger-metalsmith)
+      * [Vallejo Liquid Gold](#vallejo-liquid-gold)
+      * [Other Metal Paints](#other-metal-paints)
    * [Washes](#washes)
       * [Army Painter Quickshade](#army-painter-quickshade)
       * [Army Painter Quickshade Washes](#army-painter-quickshade-washes)
       * [Citadel Shades](#citadel-shades)
       * [Green Stuff World Washes](#green-stuff-world-washes)
       * [Oil Washes](#oil-washes)
-      * [Reaper Washes](#reaper-washes)
+      * [Reaper Master Series Washes](#reaper-master-series-washes)
       * [Tamiya Panel Line Accent Colors](#tamiya-panel-line-accent-colors)
       * [Vallejo Game Color Washes](#vallejo-game-color-washes)
       * [Vallejo Model Wash](#vallejo-model-wash)
@@ -66,7 +70,7 @@ References:
 
 ## Army Painter
 
-![Army Painter Paint](images/paint-army_painter.png)
+![Paint: Army Painter](images/paint-army_painter.jpg)
 
 * Pigment Density: Low
 * Container: 18ml Dropper
@@ -79,6 +83,8 @@ Army Painter is a good alternative to citadel.  They are very similar paints wit
 
 ## Citadel
 
+![Citadel Layer Paint](images/paint-citadel_layer_paint.jpg)
+
 * Pigment Density: Low
 * Container: 12ml Paint Pot
 * Cost per ml: $0.38/ml ($4.55 per paint pot)
@@ -88,7 +94,9 @@ Army Painter is a good alternative to citadel.  They are very similar paints wit
 
 Citadel has significant drawbacks. First it comes in paint pots, which means you will waste or ruin more paint from drying out than brands that come in dropper bottles. Second, per ounce it's one of the most expensive paints on the market. Third, citadel has one of the lowest pigment densities of any of the major miniature paint brands.  This means when you thin it, it will break faster than other paints.  It also means that it is more likely to go on gloppy.
 
-## P3
+## Formula P3
+
+![Formula P3](images/paint-formula_p3.jpg)
 
 * Pigment Density: ?
 * Container: 18ml Paint Pot
@@ -101,6 +109,8 @@ I don't actually have experience with P3.  It is well considered by many other p
 
 ## Reaper Master Series
 
+![Reaper Master Series](images/paint-reaper_master_series.jpg)
+
 * Pigment Density: Medium
 * Container: 15ml Dropper
 * Cost per ml: $0.22/ml ($3.29 per dropper bottle)
@@ -112,7 +122,9 @@ Reaper is one of my favorites specifically for layering.  The master series sell
 
 I personally think Reaper paints are the most comparable to Vallejo.  Like Vallejo they are a good backbone for your paint collection.  The triad concept is super useful for newer painters, but I still use the triads almost every time I paint because they help make some decisions just easier.
 
-## Scale 75
+## Scale 75 Fantasy and Games
+
+![Scale 75 Fantasy and Games](images/paint-scale_75_fantasy_and_games.jpg)
 
 * Pigment Density: High
 * Container: 17ml Dropper
@@ -128,7 +140,9 @@ References:
 * [Vince Venturella: Product Review 12 - Scale 75 Blue Paint Set](https://www.youtube.com/watch?v=iBglxdOvcGM)
 * [Vince Venturella: Product Review 14 - Scale 75 Flesh Paint Set](https://www.youtube.com/watch?v=HRRA0ZV72xs)
 
-## Vallejo
+## Vallejo Game Color
+
+![Vallejo Game Color](images/paint-vallejo_game_color.jpg)
 
 * Pigment Density: Medium
 * Container: 17ml Dropper
@@ -139,9 +153,13 @@ References:
 
 Vallejo is probably the most expansive line.  They have tons of great colors, and their paints have a good amount of pigment, so you can still get into the advanced techniques with them.  Vallejo sells multiple lines designed for different audiences, such as model color and mecha color.  There's no material difference in the game color, model color and mecha color lines as far as the paint formulation, so you can use them interchangeably.  Game color gives a broad range of colors, both saturated and unsaturated.  It is probably the most flexible of the lines. Model color focuses more on a huge panel desaturated of browns, greens and greys that fit in for say WWII vehicles.  Mecha color is focused on highly saturated primary colors to fit with the anime mecha asthetic.  Vallejo paints are fantastic layer paints.  They can be thined a great deal, so can be used as glazes and will also work well for wet blending.  Vallejo paints are basically a workhorse that make a great backbone of your paint collection.
 
+Vallejo has a significant advantage over many of the other paint lines.  Vallejo started as a company producing paints for historical models.  Because of this, they started from day one focused on consistently year after year producing very precise and consistent colors.  Vallejo also sells no games or models, so they are only in the business of paint.  The end result is that the only way they make money is by producing the best paint they can.
+
 Finally, as a personal point of irritation, I hear the name of these paints regularly abused.  Vallejo is a spanish company, so the proper pronunciation is not *"Va-Leh-ho"*, it is *"Vah-YEH-ho"*.  This is similar to how tortilla is pronounced. 
 
 ## Warcolours
+
+![Warcolours](images/paint-warcolours.jpg)
 
 * Pigment Density: High
 * Container: 15ml Dropper
@@ -161,12 +179,30 @@ References:
 
 There are a number of other paint lines.  As I learn about them, I'll add them here, and when I can get a chance to play with them, I can add an expanded review above.
 
-* Minitaire
+* AK Interactive Acrylics
+* Badger Minitaire
 * Coat d’Arms
+* Reaper High Density
+* Citadel Base
 * Secret Weapon Miniatures
 * Green Stuff World
 
 # Metallics
+
+References:
+
+* [Miniac: What to Thin Metallics With?](https://www.youtube.com/watch?v=_OGFJst94Lw)
+* [Miniac: What's the Best Undercoat for Metal?](https://www.youtube.com/watch?v=Iaca4TlvuC8)
+
+## Vallejo Metal Color
+
+![Vallejo Metal Color](images/metallic-vallejo_metal_color.jpg)
+
+* Pigment Density: High
+* Container: 32ml Dropper
+* Cost per ml: $0.26/ml ($8.40 dropper bottle)
+* Personal level of experience: High
+* Finish: Metallic
 
 Unfortunatly, nearly all acrylic metal paints are fairly bad.  The pigments can't be ground as fine, so they tend to be really gloppy and are hard to get good results with.  There is one exception to this: Vallejo Metal Color (VMC) (not to be confused with metal paints in the game or model color lines, and not to be confused with vallejo metallics).  These metal paints are a joy to work with.  They start of already very thin, and have fantastic coverage.  I don't know what black magic Vallejo is doing with this, but they are incredible.  I basically don't use any of my other metallic paints anymore.  Don't bother with anything else.
 
@@ -180,27 +216,43 @@ For a starter of vallejo metal color, I would recommend:
 * Steel (Midtone)
 * Magnesium (Shadow)
 
-Those 6 are probably all the metal colors you'll ever need. They are more expensive per pot than most paints at $8.40, but are also much larger at 32 oz (so $0.26/ml).
-
-A secondary recommendation is to look at the badger [metalsmith](https://usaairbrushsupply.com/t/badger-metalsmith) line (They are unfortunatly a little hard to find).  I wouldn't focus on the whole system, but the ores they offer (Gold Ore, Bronze Copper Ore, Carbon Iron Ore, Blue Ore, Red Ore) can be mixed into VMC to tint them.  The same can be said for nearly any line of inks, along with the [Badger Minitare Ghost Tints](https://amzn.to/2W6Pp7u).  Using either mixed in tints like this, or glazing over the top of VMC, you can achieve any of the colored metallics.  Be sure to first learn how to do this over the silvery VMC colors before you try at all over gold or copper.
+Those 6 are probably all the metal colors you'll ever need. They are more expensive per pot than most paints at $8.40, but are also much larger at 32ml (so $0.26/ml).
 
 References:
 
-* [Miniac: What to Thin Metallics With?](https://www.youtube.com/watch?v=_OGFJst94Lw)
-* [Miniac: What's the Best Undercoat for Metal?](https://www.youtube.com/watch?v=Iaca4TlvuC8)
 * [Vince Venturella: Product Review 01 - Vallejo Acrylic Metal Color](https://www.youtube.com/watch?v=XxODxALYV8o)
 * [Vince Venturella: Product Review 06 - Vallejo Metal Color Copper & Gold](https://www.youtube.com/watch?v=hauVrnhIah0)
-* [Vince Venturella: Product Review 29 Badger Metalsmith Paint System](https://www.youtube.com/watch?v=aLKfTxHuRgk)
 * [Vince Venturella: Hobby Cheating 104 - Zenithal Speed Painting w True Metals](https://www.youtube.com/watch?v=ByX2jIEmXJM)
 * [Vince Venturella: Hobby Cheating 129 - How to Paint Colored Metallics](https://www.youtube.com/watch?v=l9q35BPaBN0)
 * [Vince Venturella: Hobby Cheating 130 - How to Paint Antique Green Gold](https://www.youtube.com/watch?v=8RcdJTyDIE4)
 * [Vince Venturella: Hobby Cheating 160 - How to Paint True Metallic Bronze](https://www.youtube.com/watch?v=OsueC_ee5-k)
 * [Vince Venturella: Hobby Cheating 179 - Shading True Metallic Metals Revisited](https://www.youtube.com/watch?v=T-gyIO3Ncpk)
 
+## Badger Metalsmith
+
+A secondary recommendation is to look at the badger [metalsmith](https://usaairbrushsupply.com/t/badger-metalsmith) line (They are unfortunatly a little hard to find).  I wouldn't focus on the whole system, but the ores they offer (Gold Ore, Bronze Copper Ore, Carbon Iron Ore, Blue Ore, Red Ore) can be mixed into VMC to tint them.  The same can be said for nearly any line of inks, along with the [Badger Minitare Ghost Tints](https://amzn.to/2W6Pp7u).  Using either mixed in tints like this, or glazing over the top of VMC, you can achieve any of the colored metallics.  Be sure to first learn how to do this over the silvery VMC colors before you try at all over gold or copper.
+
+References:
+
+* [Vince Venturella: Product Review 29 Badger Metalsmith Paint System](https://www.youtube.com/watch?v=aLKfTxHuRgk)
+
+## Vallejo Liquid Gold
+
+![Vallejo Liquid Gold](images/metallics-vallejo_model_color_liquid_gold.jpg)
+
+References:
+
+* [Vince Venturella: Produce Review 04 - Vallejo Liquid Gold](https://www.youtube.com/watch?v=K-ePHYeIKlI)
+
+## Other Metal Paints
+
+* Every paint line under paints
 
 # Washes
 
 ## Army Painter Quickshade
+
+![Army Painter Quickshade](images/wash-army_painter_quickshade.jpg)
 
 * Container: 250ml Can
 * Cost per ml: $0.11/ml ($29.99 per can)
@@ -217,6 +269,8 @@ References:
 
 ## Army Painter Quickshade Washes
 
+![Wash: Army Painter Quickshade Wash](images/wash-army_painter_quickshade_wash.jpg)
+
 * Container: 18ml Dropper
 * Cost per ml: $0.18/ml ($3.25 per dropper bottle)
 * Personal level of experience: Medium
@@ -228,6 +282,8 @@ This line of washes should not be confused with the Army Painter Quickshade prod
 These are good washes, and frankly great for their price.  Oddly my only real complaint is that for washes, my preference reverses and I would prefer to get these in paint pots instead of droppers.  If you are on a budget, these are the go to for washes.  If you are not, you probably still want to have a set of these.
 
 ## Citadel Shades
+
+![Citadel Shades](images/wash-citadel_shade.jpg)
 
 * Container: 24ml Pot
 * Cost per ml: $0.33/ml ($7.80 per Pot)
@@ -244,6 +300,9 @@ Given my paint pot hate above, it might seem strange that I prefer this line of 
 The gloss washes are a fairly new product.  They are supposed to flow better, and work better for washing metals.  I have yet to try them, so I can't speak from experience here.
 
 ## Green Stuff World Washes
+
+![Green Stuff World Wash](images/wash-green_stuff_world.jpg)
+
 * Container: 17ml Dropper
 * Cost per ml: $0.18/ml (2.69€ &#126; $3.03 per dropper)
 * Personal level of experience: None
@@ -260,6 +319,8 @@ References:
 
 ## Oil Washes
 
+![Oil Wash](images/wash-oil_wash.jpg)
+
 * Container: Any
 * Cost per ml: Any
 * Personl level of experience: Low
@@ -274,7 +335,9 @@ References:
 * [Vince Venturella: Hobby Cheating 89 - How to Use Oil Washes](https://www.youtube.com/watch?v=oQmhcSRsiPo)
 * [Wargamers Consortium: Washes: Using Oil Washes](https://www.youtube.com/watch?v=A2JurVVWLzY)
 
-## Reaper Washes
+## Reaper Master Series Washes
+
+![Reaper Master Series Wash](wash-reaper_master_series_wash.jpg)
 
 * Container: 15ml Dropper
 * Cost per ml: $0.22/ml ($3.29 per dropper)
@@ -286,6 +349,8 @@ Reaper has a fairly limited line with Flesh, Brown, Black, Sepia, Stone and Stee
 
 ## Tamiya Panel Line Accent Colors
 
+![Tamiya Panel Line Accent Color](images/wash-tamiya_panel_line_accent_color.jpg)
+
 * Container: 40ml jar with paint brush in lid
 * Cost per ml: $0.23/ml (Around $9 per jar)
 * Personal level of experience: Low 
@@ -295,6 +360,8 @@ These are a special product.  They are used specifically for doing panel lineing
 o
 
 ## Vallejo Game Color Washes
+
+#![Vallejo Game Color Wash](images/vallejo_game_color_wash.jpg)
 
 * Container: 18ml Dropper
 * Cost per ml: $0.19/ml ($3.29 per dropper)
@@ -307,6 +374,8 @@ Vallejo washes were the first washes I branched out to from Reaper's.  I find th
 The Vallejo range is Sepia, Black, Grey, Umber, Flesh, Green, Red and Blue.
 
 ## Vallejo Model Wash
+
+#![Vallejo Model Wash](images/wash-vallejo_model_wash.jpg)
 
 * Container: 35ml Dropper
 * Cost per ml: $0.22/ml ($7.99 per dropper)
@@ -321,6 +390,8 @@ References:
 * [Vince Venturella: Hobby Cheating 56 - Black Lining](https://www.youtube.com/watch?v=kl5GnGCw6Co)
 
 ## Warcolours Shades
+
+![Warcolours Shades](images/wash-warcolours_shade.jpg)
 
 * Container: 15ml Dropper
 * Cost per ml: $0.19/ml (2.50€ &#126; $2.81 per dropper)
