@@ -70,7 +70,7 @@ References:
 
 ## Army Painter
 
-![Paint: Army Painter](images/paint-army_painter.jpg | width=200)
+![Paint: Army Painter](images/paint-army_painter.jpg){:width="200px"}
 
 * Pigment Density: Low
 * Container: 18ml Dropper
