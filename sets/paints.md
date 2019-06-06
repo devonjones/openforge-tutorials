@@ -40,8 +40,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 Many people try craft paints (Americana, Folk Art, Craft Smart, etc) as their first paint to paint miniatures.  A person can achieve tabletop quality with craft paints, but they will do it having to fight the paints, instead of the paints making the job easier for them.  Miniature paints are designed to make easy techniques easy and hard techniques possible.  Craft paints are designed for straightforward techniques and low price.  The primary problems with using craft paint is that they have two problems for miniatures:
 
-1) their pigment is not ground as finely as model paints
-2) They are not very pigment dense
+1) The pigment in craft paint is not ground as finely as model paints
+2) Craft paints are not very pigment dense
 
 What this means in practice is that as soon as you use anything but the most basic techniques for miniature painting, you will start to run into the limitations of this paint.  As you thin it, the low pigment density will result in the paint turning glossy and having inconsistent coverage.  The less fine pigment will mean you will have a harder time painting details and not clogging them.  You'll also find that it's much harder to avoid brush strokes.  Beyond the two larger problems, the medium for craft paints is missing additives that most miniature paints have that increase the drying time and improve their flow.
 
