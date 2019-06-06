@@ -577,4 +577,8 @@ References:
 * [Vince Venturella: Hobby Cheating 123 - Warm Zenithal Highlighting](https://www.youtube.com/watch?v=rFDHpVJiNC0)
 * [Vince Venturella: Hobby Cheating 136 - Guide to Value Sketching](https://www.youtube.com/watch?v=n0CFC2soR18)
 * [Vince Venturella: Hobby Cheating 175 - Understanding Unusual Undershading & Zenithal Highlighting](https://www.youtube.com/watch?v=Doc2GdL2Lv4)
+
+* Medium/Additives
+
+* [Luke's APS: How To Make Lahmian medium Cheap](https://www.youtube.com/watch?v=ad7bNDfS3fI)
 -->
