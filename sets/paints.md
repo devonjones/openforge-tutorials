@@ -36,7 +36,18 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # Miniature Painting Paint Selection
 
-This essay is intended to cover paints for miniature painting.  I do not cover the use of craft paints for this purpose, but I will add a section in the future to cover why it is best to stay away from craft paints for this application.  I personally use a ton of craft paint, mostly for painting 3d printed terrain, so it's not a distain for craft paints, they are a useful tool in the crafter's arsenel, but they also have specific applications where they are better, and applications where they are suboptimal.  For painting miniatures, craft paints have significant drawbacks.
+# A Note About Craft Paints
+
+Many people try craft paints (Americana, Folk Art, Craft Smart, etc) as their first paint to paint miniatures.  A person can achieve tabletop quality with craft paints, but they will do it having to fight the paints, instead of the paints making the job easier for them.  Miniature paints are designed to make easy techniques easy and hard techniques possible.  Craft paints are designed for straightforward techniques and low price.  The primary problems with using craft paint is that they have two problems for miniatures:
+
+1) their pigment is not ground as finely as model paints
+2) They are not very pigment dense
+
+What this means in practice is that as soon as you use anything but the most basic techniques for miniature painting, you will start to run into the limitations of this paint.  As you thin it, the low pigment density will result in the paint turning glossy and having inconsistent coverage.  The less fine pigment will mean you will have a harder time painting details and not clogging them.  You'll also find that it's much harder to avoid brush strokes.  Beyond the two larger problems, the medium for craft paints is missing additives that most miniature paints have that increase the drying time and improve their flow.
+
+If you are doing your painting of miniatures with the basic techniques of base coat + wash + drybrush, you can get by with them, but as soon as you start trying to do layering, wet blending, feathering, etc, the paints are going to fight you every step of the way.
+
+I personally use a ton of craft paint, mostly for painting 3d printed terrain, so it's not a distain for craft paints, they are a useful tool in the crafter's arsenel, but they also have specific applications where they are better, and applications where they are suboptimal.  For painting miniatures, craft paints have significant drawbacks.  For painting large structures where your primary focus is on techniques like base coating, overbrushing, washing and drybrushing, craft paints are a much much cheaper alternative for painting large pieces where you don't have a need to use more advanced techniques.
 
 ## Prices
 
