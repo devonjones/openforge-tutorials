@@ -2,6 +2,7 @@ Table of Contents
 =================
 
    * [Miniature Painting Paint Selection](#miniature-painting-paint-selection)
+      * [A Note About Craft Paints](#a-note-about-craft-paints)
       * [Prices](#prices)
    * [Paints](#paints)
       * [Army Painter](#army-painter)
@@ -36,7 +37,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # Miniature Painting Paint Selection
 
-# A Note About Craft Paints
+## A Note About Craft Paints
 
 Many people try craft paints (Americana, Folk Art, Craft Smart, etc) as their first paint to paint miniatures.  A person can achieve tabletop quality with craft paints, but they will do it having to fight the paints, instead of the paints making the job easier for them.  Miniature paints are designed to make easy techniques easy and hard techniques possible.  Craft paints are designed for straightforward techniques and low price.  The primary problems with using craft paint is that they have three problems for miniatures:
 
