@@ -49,6 +49,10 @@ If you are doing your painting of miniatures with the basic techniques of base c
 
 I personally use a ton of craft paint, mostly for painting 3d printed terrain, so it's not a distain for craft paints, they are a useful tool in the crafter's arsenel, but they also have specific applications where they are better, and applications where they are suboptimal.  For painting miniatures, craft paints have significant drawbacks.  For painting large structures where your primary focus is on techniques like base coating, overbrushing, washing and drybrushing, craft paints are a much much cheaper alternative for painting large pieces where you don't have a need to use more advanced techniques.
 
+References:
+
+* [Luke's APS: Make craft paints work on your minis and terrain.](https://www.youtube.com/watch?v=xsQlKepVQE0)
+
 ## Prices
 
 Here's your prices (All taken from miniature market's "Retail Price" except warcolours since they are only sold through their website):
