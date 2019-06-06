@@ -38,12 +38,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 # A Note About Craft Paints
 
-Many people try craft paints (Americana, Folk Art, Craft Smart, etc) as their first paint to paint miniatures.  A person can achieve tabletop quality with craft paints, but they will do it having to fight the paints, instead of the paints making the job easier for them.  Miniature paints are designed to make easy techniques easy and hard techniques possible.  Craft paints are designed for straightforward techniques and low price.  The primary problems with using craft paint is that they have two problems for miniatures:
+Many people try craft paints (Americana, Folk Art, Craft Smart, etc) as their first paint to paint miniatures.  A person can achieve tabletop quality with craft paints, but they will do it having to fight the paints, instead of the paints making the job easier for them.  Miniature paints are designed to make easy techniques easy and hard techniques possible.  Craft paints are designed for straightforward techniques and low price.  The primary problems with using craft paint is that they have three problems for miniatures:
 
 1) The pigment in craft paint is not ground as finely as model paints
 2) Craft paints are not very pigment dense
+3) The paints are thick, and the medium is not designed for miniature use cases.
 
-What this means in practice is that as soon as you use anything but the most basic techniques for miniature painting, you will start to run into the limitations of this paint.  As you thin it, the low pigment density will result in the paint turning glossy and having inconsistent coverage.  The less fine pigment will mean you will have a harder time painting details and not clogging them.  You'll also find that it's much harder to avoid brush strokes.  Beyond the two larger problems, the medium for craft paints is missing additives that most miniature paints have that increase the drying time and improve their flow.
+What this means in practice is that as soon as you use anything but the most basic techniques for miniature painting, you will start to run into the limitations of this paint.  As you thin it, the low pigment density will result in the paint turning glossy and having inconsistent coverage.  The less fine pigment will mean you will have a harder time painting details and not clogging them.  You'll also find that it's much harder to avoid brush strokes.  Finally, the medium for craft paints is missing additives that most miniature paints have that increase the drying time and improve their flow.  This last one you can fix, by adding in some of your own medium.  There's a link under references for a video on how to do this.
 
 If you are doing your painting of miniatures with the basic techniques of base coat + wash + drybrush, you can get by with them, but as soon as you start trying to do layering, wet blending, feathering, etc, the paints are going to fight you every step of the way.
 
