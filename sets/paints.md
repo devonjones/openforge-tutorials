@@ -537,6 +537,7 @@ References:
 * [Dr Faust's Painting Clinic: Painting Heroforge 1: Drybrushing & Ink Washes](https://www.youtube.com/watch?v=eHhVqyYsz90)
 * [Miniac: Episode 08: Drybrushing](https://www.youtube.com/watch?v=yqobfZiCJ2E)
 * [Miniwargaming Jay: Miniature Painting 101 - Part 14 - Drybrushing](https://www.youtube.com/watch?v=QaEKiuCr7kg)
+* [Tabletop Minions: Are Cheap Makeup Brushes Drybrushing Magic?](https://www.youtube.com/watch?v=iSKFtaY8iAw)
 * [Vince Venturella: Hobby Cheating 139 Ultimate Guide to Drybrushing](https://www.youtube.com/watch?v=vHRMnJce4b8)
 
 * Overbrushing
