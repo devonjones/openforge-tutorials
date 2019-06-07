@@ -497,6 +497,10 @@ References:
 
 * [Vince Venturella: Hobby Cheating 135 - Guide to Paint Additives](https://www.youtube.com/watch?v=FuSFCiLvs1w)
 
+# Prep Equipment
+
+* [Miniac: Most Commonly Used Miniature Painting Prep Tools](https://www.youtube.com/watch?v=-AWEDrWZjLE)
+
 * Dropper Bottles vs Paint Pots
 * Pigment Density
 * Finish
