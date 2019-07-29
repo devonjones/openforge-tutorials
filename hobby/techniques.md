@@ -1,8 +1,9 @@
 Table of Contents
 =================
 
-   * [Prep Equipment](#prep-equipment)
    * [Techniques](#techniques)
+      * [Prep](#prep)
+      * [Zenithal Priming & Glazing](#zenithal-priming--glazing)
       * [Medium/Additives](#mediumadditives)
       * [Layering](#layering)
       * [Shading](#shading)
@@ -14,7 +15,6 @@ Table of Contents
       * [Feathering](#feathering)
       * [Edge Highlighting](#edge-highlighting)
       * [Glazing](#glazing)
-      * [Zenithal Priming & Glazing](#zenithal-priming--glazing)
    * Other Articles
       * [Paints](paints.md)
       * [Metallic Paints](metallic_paints.md)
@@ -22,11 +22,27 @@ Table of Contents
       * [Tools](tools.md)
       * [Techniques](techniques.md)
 
-# Prep Equipment
+# Techniques
+
+## Prep
 
   * [Miniac: Most Commonly Used Miniature Painting Prep Tools](https://www.youtube.com/watch?v=-AWEDrWZjLE)
 
-# Techniques
+## Zenithal Priming & Glazing
+
+   * [Ghool's Painting Tips: Speed Painting - Zenithal Prime and Glazing](https://www.youtube.com/watch?v=SvJjD6Hm1Es)
+   * [Miniac: Speedpaint Minis Without Losing Quality!](https://www.youtube.com/watch?v=vGOmSKO_KaU)
+   * [Sorastro's Blood Rage Painting Guide Ep.1: The Frost Giant](https://www.youtube.com/watch?v=RtHbIfyQHBU)
+   * [Tabletop Minons: Understanding Underpainting](https://www.youtube.com/watch?v=Wxc9WX2INp4)
+   * [Vince Venturella: Hobby Cheating 07 - Zenithal Highlighting & Ghosts](https://www.youtube.com/watch?v=1nDvWs4dsfc)
+   * [Vince Venturella: Hobby Cheating 11 - Zenithal Highlighting Next Steps](https://www.youtube.com/watch?v=hCafLRStALA)
+   * [Vince Venturella: Hobby Cheating 74 - Speed Painting with Washes, Shades & Inks](https://www.youtube.com/watch?v=1YdY7GlwKQc)
+   * [Vince Venturella: Hobby Cheating 75 - Zenithal Highlighting and Glazes](https://www.youtube.com/watch?v=J-dQU-dSNa8)
+   * [Vince Venturella: Hobby Cheating 104 - Zenithal Speed Painting w True Metals](https://www.youtube.com/watch?v=ByX2jIEmXJM)
+   * [Vince Venturella: Hobby Cheating 105 - Zenithal Speed Painting Gold True Metals](https://www.youtube.com/watch?v=agRmMwuQI5A)
+   * [Vince Venturella: Hobby Cheating 123 - Warm Zenithal Highlighting](https://www.youtube.com/watch?v=rFDHpVJiNC0)
+   * [Vince Venturella: Hobby Cheating 136 - Guide to Value Sketching](https://www.youtube.com/watch?v=n0CFC2soR18)
+   * [Vince Venturella: Hobby Cheating 175 - Understanding Unusual Undershading & Zenithal Highlighting](https://www.youtube.com/watch?v=Doc2GdL2Lv4)
 
 ## Medium/Additives
 
@@ -95,20 +111,4 @@ Table of Contents
    * [Vince Venturella: Hobby Cheating 10 - Technique Tips - Washes, Glazes & Drybrush](https://www.youtube.com/watch?v=qaARYpmCyC4)
    * [Vince Venturella: Hobby Cheating 31 - Blending - Glazes, Two Brush, Feathering & Loaded Brush](https://www.youtube.com/watch?v=70A3_bHGMGc)
    * [Vince Venturella: Hobby Cheating 122 - How to Glaze](https://www.youtube.com/watch?v=N88NtHNmz1Q)
-
-## Zenithal Priming & Glazing
-
-   * [Ghool's Painting Tips: Speed Painting - Zenithal Prime and Glazing](https://www.youtube.com/watch?v=SvJjD6Hm1Es)
-   * [Miniac: Speedpaint Minis Without Losing Quality!](https://www.youtube.com/watch?v=vGOmSKO_KaU)
-   * [Sorastro's Blood Rage Painting Guide Ep.1: The Frost Giant](https://www.youtube.com/watch?v=RtHbIfyQHBU)
-   * [Tabletop Minons: Understanding Underpainting](https://www.youtube.com/watch?v=Wxc9WX2INp4)
-   * [Vince Venturella: Hobby Cheating 07 - Zenithal Highlighting & Ghosts](https://www.youtube.com/watch?v=1nDvWs4dsfc)
-   * [Vince Venturella: Hobby Cheating 11 - Zenithal Highlighting Next Steps](https://www.youtube.com/watch?v=hCafLRStALA)
-   * [Vince Venturella: Hobby Cheating 74 - Speed Painting with Washes, Shades & Inks](https://www.youtube.com/watch?v=1YdY7GlwKQc)
-   * [Vince Venturella: Hobby Cheating 75 - Zenithal Highlighting and Glazes](https://www.youtube.com/watch?v=J-dQU-dSNa8)
-   * [Vince Venturella: Hobby Cheating 104 - Zenithal Speed Painting w True Metals](https://www.youtube.com/watch?v=ByX2jIEmXJM)
-   * [Vince Venturella: Hobby Cheating 105 - Zenithal Speed Painting Gold True Metals](https://www.youtube.com/watch?v=agRmMwuQI5A)
-   * [Vince Venturella: Hobby Cheating 123 - Warm Zenithal Highlighting](https://www.youtube.com/watch?v=rFDHpVJiNC0)
-   * [Vince Venturella: Hobby Cheating 136 - Guide to Value Sketching](https://www.youtube.com/watch?v=n0CFC2soR18)
-   * [Vince Venturella: Hobby Cheating 175 - Understanding Unusual Undershading & Zenithal Highlighting](https://www.youtube.com/watch?v=Doc2GdL2Lv4)
 
