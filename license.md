@@ -14,3 +14,8 @@ Second, we have some newer sets - [Dwarven Halls](https://www.thingiverse.com/de
 From the merchant tier:
 
 Merchants are a special tier. Many of our models are available under the CC-BY-SA, Newer premium designs are under the CC-BY-SA-NC.  At the merchant tier, you can ignore the Share Alike and Non Commercial clauses of the license, meaning that you can sell prints from NC licensed models, and you can incorporate any design into your own that you can cover with any license you want so long as you still attribute the project.
+
+DungeonSticks
+-------------
+
+DungeonSticks are cross licensed.  Merchants can still print and sell these pieces, but to get the license to do dungeon sticks, we also agreed to allow the merchant tier of EC3D to sell the same pieces.  OpenForge Merchant tier patrons can print and sell files from any thingiverse entry with "DungeonStick" in the name under devonjones, but only EC3D Merchants can do the same for thingiverse entries with "DungeonStick" in the name under ecaroth.
