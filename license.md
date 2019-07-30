@@ -18,4 +18,4 @@ Merchants are a special tier. Many of our models are available under the CC-BY-S
 DungeonSticks
 -------------
 
-DungeonSticks are cross licensed.  Merchants can still print and sell these pieces, but to get the license to do dungeon sticks, we also agreed to allow the merchant tier of EC3D to sell the same pieces.  OpenForge Merchant tier patrons can print and sell files from any thingiverse entry with "DungeonStick" in the name under devonjones, but only EC3D Merchants can do the same for thingiverse entries with "DungeonStick" in the name under ecaroth.
+DungeonSticks are cross licensed.  OpenForge Merchants can still print and sell these pieces, but to get the license to do dungeon sticks, we also agreed to allow the merchant tier of EC3D to sell the same pieces. OpenForge and EC3D Merchants can print and sell files from any Thingiverse entry with "DungeonStick" in the name under devonjones, but only EC3D Merchants can do the same for Thingiverse entries with "DungeonStick" in the name under ecaroth. 
