@@ -80,6 +80,9 @@ If you want something cheaper, GearBest reached out to me to have me print with 
 #### Hobby knife
 You'll want an xacto knife.  I prefer one with [rubber sides](http://amzn.to/2ESwczx).  You'll also want a [self healing mat](http://amzn.to/2H58ErW) and [plenty of blades](http://amzn.to/2H3PZwy) (a sharp knife is counterintuitively safer then a dull one).  Don't be stupid with these, cut away from yourself.  I know, I've had 3 bad cuts in the past few years, one of which that did permanent nerve damage to my left pointer finger.  Be  careful!
 
+#### Clamps
+Clamps are super useful for holding tiles together when gluing.  I like to use both [spring clamps](https://amzn.to/2KIU1Ow) and [small bar clamps](https://amzn.to/2HftPZV) for a variety of ways to hold parts as they glue.
+
 #### Pin Vice
 I use the pin vice all the time.  Basically it's a mini drill that you turn with your hands that has very tiny bits.  For anything that I print that uses filament as a joint or a rivet, having a drill that's a little larger then a 1.75mm piece of filament is super useful, but I find a ton of other uses for it in both 3d printing, and for miniatures.  This isn't critical equipment, but it's really pretty useful to have.
 
