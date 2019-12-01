@@ -1,6 +1,9 @@
 # OpenForge Guides
 [Up](../README.md)
 
+* [Mine Doors](mine/README.md)
+  * Red-brown stone
+  * Wood and Wood Grain Doors
 * [Mangonel Paint and Assembly Guide](mangonel/README.md)
   * Wood
   * Metal
