@@ -9,7 +9,7 @@ All of [Cut-Stone](https://www.thingiverse.com/devonjones/collections/openforge-
 
 Free to use
 -----------
-Second, we have some newer sets - [Dwarven Halls](https://www.thingiverse.com/devonjones/collections/openforge-2-dwarven-halls), the forthcoming cavern set, and newer scatter that are under the CC-BY-SA-NC. Those you cannot sell unless you sign up on patreon as a Merchanit Tier ($10/month) supporter. Then you will gain the right to ignore the NC and SA parts of the license.
+Second, we have some newer sets - [Dwarven Halls](https://www.thingiverse.com/devonjones/collections/openforge-2-dwarven-halls), [Caverns and Mines](https://www.thingiverse.com/devonjones/collections/openforge-2-caverns) sets, [Towne](https://www.thingiverse.com/devonjones/collections/openforge-2-towne-series) set, and newer scatter that are under the CC-BY-SA-NC. Those you cannot sell unless you sign up on patreon as a Merchanit Tier ($10/month) supporter. Then you will gain the right to ignore the NC and SA parts of the license.
 
 From the merchant tier:
 
