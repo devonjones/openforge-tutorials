@@ -13,6 +13,10 @@ Table of Contents
       * [Vallejo Model Wash](#vallejo-model-wash)
       * [Warcolours Shades](#warcolours-shades)
       * [Other Wash lines](#other-wash-lines)
+   * [Contrast](#contrast)
+      * [Contrast](#citadel-contrast)
+      * [Anthesis](#warcolours-anthesis)
+      * [Instant Colors](#scale75-instant-colors)
    * Other Articles
       * [Paints](paints.md)
       * [Metallic Paints](metallic_paints.md)
@@ -168,8 +172,8 @@ References:
 * Container: 15ml Dropper
 * Cost per ml: $0.19/ml (2.50€ &#126; $2.81 per dropper)
 * Personal level of experience: Low
-* Washes in product line: 7
-* Purchase: [Warclours Shade Set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=150) (7 shades for 17.45€ &#126; $19.62)
+* Washes in product line: 12
+* Purchase: [Warclours Shade Set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=150) (12 shades for 29.99€ &#126; $36.51)
 
 These are very matte, but also fairly thick shades.  They might work like other shades if thinned, but in their out of the bottle consistency, these can't be used like traditional shades.  I think these are probably better off used as a glaze than like a wash.  As I get more experience with them, I'll circle back and reevalate them.
 
@@ -177,6 +181,49 @@ These are very matte, but also fairly thick shades.  They might work like other 
 ## Other Wash lines
 
 There are plenty of other lines of washes.  I'll keep a list here as I find them, and expand on them when I have a chance to try them out.
+
+# Contrast
+
+## General Comparison
+
+* Browns: Anthesis has some fantastic browns. No real overlap on colors between Anthesis, Contrast and Instant Colors.
+* Flesh tones: Contrast utterly destroys the other two on this front. Anthesis has one decent flesh colors, Instant Colors has one decent one and one excellent one. Contrast has three excellent ones.
+* Value colors (white to black). All three lines have decent greys, I think I like the Anthesis black the best.
+* Reds: The red variety in instant colors is astonishing. Some how all three sets don't appear to have any direct match in the red range between 2 for contrast, 2 for anthesis and 5 for instant colors. Some of the Instant colors aren't particularly different from each other.
+* Oranges: Contrast has two fantastic oranges, with Gore Gunta fur being my favorite across all three lines. the anthesis orange is not wonderful. the 4 instant color oranges are great additions. Once again, basically no overlap between the three lines.
+* Yellows: Nazdrag yellow is easily the best for NMM gold. Anthesis ochre is a great color, the yellow is decent, but not wonderful. There's 6 yellows in instant colors, about half of which strike me as useful and half of which are too weak.
+* Green: Contrast: 6, Anthesis: 6 Instant Colors: 8 Some of the instant colors aren't that different from one another. The dark greens from anthesis are my favorite, saturated greens I would go with Contrast, and for military greens, I think it's Instant Colors.
+* Blue: same deal as green, I think the dark blues are best from anthesis, the saturated blues best from contrast (Talassar blue specifically is great), and the desaturated blues are best from Instant Colors
+* Purples/Magentas: Anthesis shines here, lots of great purples/magentas/indegos. I think there's really only one useful color in this range for contrast (Volpus Pink) and instant colors are pretty limited in this space with only arcane purple.
+Conclusion: All three are actually great sets, with different areas they shine in. For contrast, I feel where they shine are in their browns and skins. For Anthesis, It tends to be best on darker colors, and additional great browns. For Instant colors, it's in the depth of colors they have for the primary and secondary colors (except for some reason purple). There's very little overlap between the three lines, so sadly, my conclusion is that it's worth having all three sets.
+
+## Citadel Contrast
+
+* Container: 18ml Pot
+* Cost per ml: $0.39/ml ($6.99 per Pot)
+* Personal level of experience: High
+* Paints in product line: 34
+
+## Warcolours Anthesis
+
+* Container: 15ml Dropper
+* Cost per ml: $0.23/ml (2.89€ &#126; $3.52 per dropper)
+* Personal level of experience: Medium
+* Paints in product line: 36
+* Purchase: [Warclours Anthesis Set](https://www.warcolours.com/index.php?route=product/product&path=60&product_id=197) (36 paints for 99.99€ &#126; $121.73)
+
+## Scale75 Instant Colors
+
+* Container: 17ml Dropper
+* Cost per ml: $0.29/ml ($4.99 per dropper)
+* Personal level of experience: Medium
+* Paints in product line: 48
+* Purchase: [Healing Potions Set](https://www.michtoy.com/item-SCL-SSE-100-Instant_Colors___Healing_Potions_Paint_Set.html) (Red) (8 paints for $39.99)
+* Purchase: [Revive Potions Set](https://www.michtoy.com/item-SCL-SSE-101-Instant_Colors___Revive_Potions_Paint_Set.html) (Skin) (8 paints for $39.99)
+* Purchase: [Poison Potions Set]https://www.michtoy.com/item-SCL-SSE-102-Instant_Colors___Posion_Flasks_Paint_Set.html) (Green) (8 paints for $39.99)
+* Purchase: [Mana Elixirs Set](https://www.michtoy.com/item-SCL-SSE-103-Instant_Colors___Mana_Elixirs_Paint_Set.html) (Blue) (8 paints for $39.99)
+* Purchase: [Berserk Potions Set](https://www.michtoy.com/item-SCL-SSE-104-Instant_Colors___Beserk_Potions_Paint_Set.html) (Brown) (8 paints for $39.99)
+* Purchase: [Summon Potions Set](https://www.michtoy.com/item-SCL-SSE-105-Instant_Colors___Summon_Potions_Paint_Set.html) (Shadow) (8 paints for $39.99)
 
 <!--
 # To Be Added
