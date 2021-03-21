@@ -145,15 +145,17 @@ Ruined stone is a varation of rough stone, where the pieces are not entirely com
   * 2x shattered_stone_floor.2x2.corner.concave
   * 2x shattered_stone_floor.2x2.corner.concave.mirrored
 
-## Tudor
+## Towney (Tudor successor)
 
 376 Magnets
 
-* [Walls](https://www.thingiverse.com/thing:1598377), [Wall Variations Set 1](https://www.thingiverse.com/thing:1598386), [Wall Variations Set 2](https://www.thingiverse.com/thing:1618353), [Wall Construction Kit Parts](https://www.thingiverse.com/thing:1641003), [Wall Construction Kit Floors](https://www.thingiverse.com/thing:1640999)
-* [Corners](https://www.thingiverse.com/thing:1635716), [Corner Variations Set 1](https://www.thingiverse.com/thing:1635721) [Corner Construction Kit Parts](https://www.thingiverse.com/thing:1727412), [Corner Construction Kit Floors](https://www.thingiverse.com/thing:1727367)
-* [Floors](https://www.thingiverse.com/thing:1585586)
-* [Wood Frame Doors](https://www.thingiverse.com/thing:1649422), [Wood Frame Door Variations Set 1](https://www.thingiverse.com/thing:1649437)
-* [Square Windows](https://www.thingiverse.com/thing:1659308)
+* [Walls](https://www.thingiverse.com/thing:3457042)
+* [Corners](https://www.thingiverse.com/thing:3477975)
+* [Floors](https://www.thingiverse.com/thing:3452583)
+* [Wood Frame Doors](https://www.thingiverse.com/thing:3526688)
+* [Square Windows](https://www.thingiverse.com/thing:4497733)
+* [Stairs](https://www.thingiverse.com/thing:3597920)
+
 
 # Navigation
 
