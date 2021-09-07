@@ -121,6 +121,8 @@ I don't actually have experience with P3.  It is well considered by many other p
 
 ## Pro-Acryl
 
+![Pro-Acryl](images/paint-pro-acryl.jpg)
+
 * Pigment Density: High
 * Container: 22ml Dropper
 * Cost per ml: $0.18/ml ($4.00 per dropper bottle)
