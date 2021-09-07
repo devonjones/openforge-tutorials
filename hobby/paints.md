@@ -8,6 +8,7 @@ Table of Contents
       * [Army Painter](#army-painter)
       * [Citadel](#citadel)
       * [Formula P3](#formula-p3)
+      * [Pro-Acryl](#pro-acryl)
       * [Reaper Master Series](#reaper-master-series)
       * [Reaper MSP HD](#reaper-msp-hd)
       * [Scale 75 Fantasy and Games](#scale-75-fantasy-and-games)
