@@ -121,6 +121,8 @@ I don't actually have experience with P3.  It is well considered by many other p
 
 ## Pro-Acryl
 
+![Pro-Acryl](images/paint-pro-acryl.jpg)
+
 * Pigment Density: High
 * Container: 22ml Dropper
 * Cost per ml: $0.18/ml ($4.00 per dropper bottle)
@@ -129,6 +131,12 @@ I don't actually have experience with P3.  It is well considered by many other p
 * Finish: Matte/Satin
 
 Pro-Acryl has become one of my go-tos.  Their white is just top notch, but I also regularly use the white, greys and black to clean up my zenithal primes from overpaint as I put colors over my zenithal prime.  All the pro-acryl paints have top tier coverage for comparable colors.  They wet blend well, they turn into glazes super-well - very very hard to break because of the very high pigment density.  A great range of browns, and desaturated colors as well as probably my favorite turquoise in any line.  Pro acryl also has a good line of metallics and some really interesting transparent paints that are great for glazing.
+
+References:
+
+* [Vince Venturella: Product Review 36 - Creature Caster Pro Acryl Paints](https://www.youtube.com/watch?v=_K7KlgVWsZw)
+* [Vince Venturella: Hobby Cheating 194 - Airbrushing Pro Acryl Paints](https://www.youtube.com/watch?v=qN-_huJXbqg)
+
 
 ## Reaper Master Series
 
