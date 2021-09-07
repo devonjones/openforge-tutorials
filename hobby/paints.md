@@ -43,11 +43,13 @@ References:
 
 ## Prices
 
-Here's your prices (All taken from miniature market's "Retail Price" except warcolours since they are only sold through their website):
+Here's your prices (All taken from miniature market's "Retail Price" except warcolours & pro-acryl since they are only sold through their websites):
 
 * Warcolours: 15ml dropper for 1.95€ &#126; $2.19 ($0.15/ml)
 * Army Painter Paint: 18ml dropper bottle for $2.99 ($0.17/ml)
+* Pro-Acryl: 22 ml $4.00 ($0.18/ml)
 * Vallejo Paint: 17ml dropper bottle for $3.29 ($0.19/ml)
+* Two Thin Coats: 15ml dropper bottle for $3.20 ($0.21/ml)
 * Reaper MSP: 1/2 oz (15 ml) for $3.29 ($0.22/ml)
 * P3: 18ml paint pot for $4.00 ($0.22/ml)
 * Scale 75 Paint: 17ml dropper bottle for $4.49 ($0.26/ml)
@@ -115,6 +117,17 @@ Citadel has significant drawbacks. First it comes in paint pots, which means you
 * Finish: Satin
 
 I don't actually have experience with P3.  It is well considered by many other painters.  They tout that they use liquid pigment, which makes it harder for their paint to break, but I have no idea how effective this is.  P3 does come in paint pots, which I personally do not like.  I would probably be more inclined to try them if they came in dropper bottles.
+
+## Pro-Acryl
+
+* Pigment Density: High
+* Container: 22ml Dropper
+* Cost per ml: $0.18/ml ($4.00 per dropper bottle)
+* Personal level of experience: High
+* Purchase starting place: [Pro-Acryl Base Set](https://monumenthobbies.com/products/pro-acryl-base-set) (24 paints)
+* Finish: Matte/Satin
+
+Pro-Acryl has become one of my go-tos.  Their white is just top notch, but I also regularly use the white, greys and black to clean up my zenithal primes from overpaint as I put colors over my zenithal prime.  All the pro-acryl paints have top tier coverage for comparable colors.  They wet blend well, they turn into glazes super-well - very very hard to break because of the very high pigment density.  A great range of browns, and desaturated colors as well as probably my favorite turquoise in any line.  Pro acryl also has a good line of metallics and some really interesting transparent paints that are great for glazing.
 
 ## Reaper Master Series
 
@@ -209,4 +222,5 @@ There are a number of other paint lines.  As I learn about them, I'll add them h
 * Citadel Base
 * Secret Weapon Miniatures
 * Green Stuff World
+* One Thin Coat
 
