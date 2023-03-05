@@ -18,4 +18,4 @@
 
 ## Other
 
-* [Licenses](license.md)
+* [Licenses](How%20Do%20OpenForge%20Licenses%20Work.pdf)
