@@ -82,9 +82,9 @@ When I want to do water in something like a fountain, I use Woodland Scenics [Wa
 
 ### Tools
 #### 3d Printer (of course)
-If you can afford a little more in cost, I suggest the [Prusa i3 MK2](http://shop.prusa3d.com/en/3d-printers/59-original-prusa-i3-mk2-kit.html) at $699.99.  It gets great reviews, isn't super expensive, and makes really top quality prints.
+For filament printing, I presently use the [Creality Ender 3](https://amzn.to/3lrfyRg), which can normally be found for less than $200.  It's a really common printer, so if you have problems, you can pretty easily find help online.
 
-If you want something cheaper, GearBest reached out to me to have me print with their [Tronxy X5s](https://www.gearbest.com/3d-printers-3d-printer-kits/pp_701645.html?lkid=11524128), and I have to say I was pleasantly surprised, it's a really solid printer.  You can pick it up for $285.99. Also, a lot of people seem to be really happy with the [Monoprice Maker Select](https://www.monoprice.com/product?p_id=13860) at $299.99.
+For resin printing, I presently use the [Elegoo Saturn](https://amzn.to/3llNSgH) (Around $400).  I think it's a great printer, and it has served me well, however, if you were getting one today, you might want to consider getting the more modern [Elegoo Saturn 2](https://amzn.to/3TqY4B4) (Around $560) which has an 8k screen to the 1's 4k screen.  If you want something a bit cheaper, the [Elegoo Mars 3](https://amzn.to/40lgENi) (around $220) is the same basic printer, just a smaller build volume, and nothing I produce in openforge that you would resin print needs the larger build space of the Saturn.
 
 #### Hobby knife
 You'll want an xacto knife.  I prefer one with [rubber sides](http://amzn.to/2ESwczx).  You'll also want a [self healing mat](http://amzn.to/2H58ErW) and [plenty of blades](http://amzn.to/2H3PZwy) (a sharp knife is counterintuitively safer then a dull one).  Don't be stupid with these, cut away from yourself.  I know, I've had 3 bad cuts in the past few years, one of which that did permanent nerve damage to my left pointer finger.  Be  careful!
