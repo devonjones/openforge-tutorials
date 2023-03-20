@@ -95,7 +95,9 @@ Clamps are super useful for holding tiles together when gluing.  I like to use b
 #### Pin Vice
 I use the pin vice all the time.  Basically it's a mini drill that you turn with your hands that has very tiny bits.  For anything that I print that uses filament as a joint or a rivet, having a drill that's a little larger then a 1.75mm piece of filament is super useful, but I find a ton of other uses for it in both 3d printing, and for miniatures.  This isn't critical equipment, but it's really pretty useful to have.
 
-Here's a [reasonably cheap one](http://amzn.to/2BjyIPu) and one that has a [ton of bits](http://amzn.to/2BklUbt).  A variety of bits is really worth it.  In fact, I really did actually order the second one from amazon while writing this.  Seriously.
+Here's a [reasonably cheap one](https://amzn.to/3JQIWcP) and one that has a [ton of bits](http://amzn.to/2BklUbt).  A variety of bits is really worth it.  In fact, I really did actually order the second one from amazon while writing this.  Seriously.
+
+Since I originally wrote this, a new device called the [Wowstick](https://amzn.to/42keoHX) has hit the market.  A USB-C powered pen sized drill.  It's fantasic, I pretty much never use my pin vices anymore with one.
 
 #### Flush Cutters
 Here's a cheap set from [amazon](http://amzn.to/2BkOkCf).  Cheap snips generally are softer, so their blade is more easily destroyed.  So long as you **only** use this on plastic, you can go as cheap as you want.
