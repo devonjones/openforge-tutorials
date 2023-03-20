@@ -50,6 +50,12 @@ Price wise, [Gorilla Super Glue Gel](http://amzn.to/2H58rEX) is much cheaper per
 #### Magnets
 There are two types of magnets regularly used in OpenForge.  5mm spherical magnets, and 3/16" dia. x 1/16" thick cylinders.
 
+* [5mm diameter, 3mm thick](https://amzn.to/3TiebAV) (print settings have to be real dialed in, but this is the strongest option)
+* [5mm diameter, 2mm thick](https://amzn.to/3n2prFa) (Still needs to be pretty dialed in, bit a little less so)
+* [4mm diameter, 3mm thick](https://amzn.to/3JOtXzd)
+* [4mm diameter, 2mm thick](https://amzn.to/3looXJl)
+* [3/16" diameter, 1/8" thick](https://www.kjmagnetics.com/proddetail.asp?prod=D32AH&gclid=CjwKCAjw5dqgBhBNEiwA7PryaIFfjrjwztjEo_E-M-RiKUUqM3fHcL83LS3cIRhHASss8Dq_nckOUBoCqQcQAvD_BwE)
+
 I get the 3/16" dia. x 1/16" thick magnets from [K&J](https://www.kjmagnetics.com/proddetail.asp?prod=D31) and my spheres from [Dealxtreme](http://www.dx.com/p/5mm-neodymium-magnet-cube-diy-puzzle-set-black-216-pcs-170237#.WcFZSNOGN24).  With Dealxtreme, the shipping time is long, and which color of magnet is cheapest changes a lot, so keep an eye on the site, and order early before you run out.  You can get them on [Amazon](http://amzn.to/2ChQpvC) as well, but the offers for magnets there seem to appear and disappear a lot. The vast majority of the magnets used are the 5mm spheres.  If a set uses the cylinders, I'll call that out specifically.  Otherwise, assume that anything using magnets uses the spheres.
 
 #### Paint
