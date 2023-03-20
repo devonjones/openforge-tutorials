@@ -48,7 +48,7 @@ For superglue, I have two different recommendations.  [Loktite Ultragel Control]
 Price wise, [Gorilla Super Glue Gel](http://amzn.to/2H58rEX) is much cheaper per ounce, and I use it for the bulk of my gluing these days.  ($4.84 for 15 grams vs $3.89 for 4 grams)
 
 #### Magnets
-There are two types of magnets regularly used in OpenForge.  5mm spherical magnets, and 3/16" dia. x 1/16" thick cylinders.
+Historically, there have been two types of magnets regularly used in OpenForge.  5mm spherical magnets, and 3/16" dia. x 1/16" thick cylinders.  Since then we all had a pandemic, and supply chains got weird.  I designed a new magnetic base that I call flex magnetic, and it can still take the 5mm spherical magnets, but it can also take any of these (much cheaper and easier to find) cylindrical magnets:
 
 * [5mm diameter, 3mm thick](https://amzn.to/3TiebAV) (print settings have to be real dialed in, but this is the strongest option)
 * [5mm diameter, 2mm thick](https://amzn.to/3n2prFa) (Still needs to be pretty dialed in, bit a little less so)
